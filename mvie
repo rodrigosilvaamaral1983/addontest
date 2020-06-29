@@ -2,6 +2,7 @@
 <title>[B]NOME[/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-eVSUMXuj9PIWmpPh8u7N7RRm-dXXesV/view$$lsname=[COLOR lime]hd[/COLOR] - LINK 1</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-zeXl5QazaTnV4QuxPa99zkQ6OTiBKV1/view$$lsname=[COLOR lime]hd[/COLOR] - LINK 2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ca04107af8023847673463f36b18f94adf533a40$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 3</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
