@@ -1,7 +1,7 @@
 <channels>
 
 <channel>
-<name>AÇÃO</name>
+<name>Ação</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/rodrigosilvaamaral1983/projt2020g/master/rsa.aca</externallink>
 <fanart></fanart>
@@ -13,7 +13,7 @@
 <channels>
 
 <channel>
-<name>AÇÃO & AVENTURA </name>
+<name>Ação & Aventura </name>
 <thumbnail></thumbnail>
 <externallink>https://</externallink>
 <fanart></fanart>
@@ -23,7 +23,7 @@
 <channels>
 
 <channel>
-<name>ANIMAÇÃO</name>
+<name>Animação</name>
 <thumbnail></thumbnail>
 <externallink>https://</externallink>
 <fanart></fanart>
@@ -33,23 +33,9 @@
 <channels>
 
 <channel>
-<name>AVENTURA</name>
+<name>Comédia</name>
 <thumbnail></thumbnail>
 <externallink>https://</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
-
-<channels>
-
-<channels>
-
-<channel>
-<name>AÇÃO</name>
-<thumbnail></thumbnail>
-<externallink>https://</externallink>
-<fanart></fanart>
-<info></info>
-</channel>
-
-<channels>
