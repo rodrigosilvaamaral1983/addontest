@@ -1,17 +1,17 @@
 <channels></channels>
 <channel>
-<name>[B]Pedro Coelho[/B]</name>
-<thumbnail>https://i.imgur.com/KPSigsY.jpg</thumbnail>
+<name>[B]John Wick 2: Um Novo Dia para Matar[/B] [COLOR gainsboro](2017)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/k36UzsRQaY6E055cdYPdYbyREer.jpg</thumbnail>
 
 <item>
 <title>[COLOR limegreen][B]µTorrent[/B][/COLOR] Blu-Ray 720p </title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6287681606BCE9DB87C9F85CD979EB4417CFB3EF&dn</link>
-<thumbnail>https://i.imgur.com/KPSigsY.jpg</thumbnail>
-<fanart>https://i.imgur.com/NwatkDf.jpg</fanart>
-<info>Título original: Peter Rabbit
-Dirigido por: Will Gluck
-Estréia: 7 de fevereiro de 2018
-Duração: 1h 33m
+<thumbnail>https://image.tmdb.org/t/p/original/k36UzsRQaY6E055cdYPdYbyREer.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/2Su8VR1SfnMBK9gAlEaajYyoxO6.jpg</fanart>
+<info>[COLOR slateblue]Título Original:[/COLOR] John Wick: Chapter 2
+Dirigido por: Chad Stahelski
+Estréia: 8 de fevereiro de 2017
+Duração: 2h 2m
 Classificação: Não recomendado para menores de 16anos
 País de Origem: USA
 Sinopse: Pedro Coelho é um animal rebelde que apronta todas no quintal e até dentro da casa do Mr. McGregor (Domhnall Gleeson), com quem trava uma dura batalha pelo carinho da amante de animais Bea (Rose Byrne).
@@ -21,17 +21,9 @@ Sinopse: Pedro Coelho é um animal rebelde que apronta todas no quintal e até d
 <item>
 <title>[COLOR limegreen][B]Google[/B][/COLOR] [COLOR steelblue][B]Drive[/B][/COLOR] Blu-Ray 1080p</title> 
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-0UPJMbjG1CEolC77U63Sgc0CvrLQQsK/view</link>
-<thumbnail>https://i.imgur.com/KPSigsY.jpg</thumbnail>
-<fanart>https://i.imgur.com/NwatkDf.jpg</fanart>
-<info>Título original: Peter Rabbit
-Dirigido por: Will Gluck
-Estréia: 7 de fevereiro de 2018
-Duração: 1h 33m
-Classificação: Não recomendado para menores de 16anos
-País de Origem: USA
-Sinopse: Pedro Coelho é um animal rebelde que apronta todas no quintal e até dentro da casa do Mr. McGregor (Domhnall Gleeson), com quem trava uma dura batalha pelo carinho da amante de animais Bea (Rose Byrne).
-</info></info>
-</item>
+<thumbnail>https://image.tmdb.org/t/p/original/k36UzsRQaY6E055cdYPdYbyREer.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/2Su8VR1SfnMBK9gAlEaajYyoxO6.jpg</fanart>
+
 -------------------------------------------------------------------------------------------------------------------------------------
 <channels></channels>
 <channel>
