@@ -1,48 +1,11 @@
 <channels></channels>
 <channel>
-<name>[B]   [/B] [COLOR lightgray](000)[/COLOR]</name>
-<thumbnail></thumbnail>
-
-<item>
-<title>[COLOR limegreen][B]µTorrent[/B][/COLOR] Blu-Ray 720p [COLOR orange]1,41 GB[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info>[COLOR aquamarine]Título Original:[/COLOR] 
-[COLOR aquamarine]]Dirigido por:[/COLOR] 
-[COLOR aquamarine]Estréia:[/COLOR] 
-[COLOR aquamarine]Duração:[/COLOR] 
-[COLOR yellow]IMDb:[/COLOR] 
-[COLOR aquamarine]Classificação:[/COLOR] [COLOR red]Não recomendado para menores de 16anos[/COLOR]
-[COLOR aquamarine]País de Origem:[/COLOR] 
-[COLOR aquamarine]Sinopse:[/COLOR] 
-</info>
-</item>
-
-item>
-<title>[COLOR limegreen][B]Google[/B][/COLOR] [COLOR steelblue][B]Drive[/B][/COLOR] Blu-Ray 1080p [COLOR orange]2,39 GB[/COLOR]</title> 
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-0UPJMbjG1CEolC77U63Sgc0CvrLQQsK/view</link>
-<thumbnail>https://image.tmdb.org/t/p/original/k36UzsRQaY6E055cdYPdYbyREer.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/2Su8VR1SfnMBK9gAlEaajYyoxO6.jpg</fanart>
-<info>[COLOR aquamarine]Título Original:[/COLOR] 
-[COLOR aquamarine]]Dirigido por:[/COLOR] 
-[COLOR aquamarine]Estréia:[/COLOR] 
-[COLOR aquamarine]Duração:[/COLOR] 
-[COLOR yellow]IMDb:[/COLOR] 
-[COLOR aquamarine]Classificação:[/COLOR] [COLOR red]Não recomendado para menores de 16anos[/COLOR]
-[COLOR aquamarine]País de Origem:[/COLOR] 
-[COLOR aquamarine]Sinopse:[/COLOR] 
-</info>
-</item>
-
-<channels></channels>
-<channel>
 <name>[B]John Wick 2: Um Novo Dia para Matar[/B] [COLOR lightgray](2017)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/k36UzsRQaY6E055cdYPdYbyREer.jpg</thumbnail>
 
 <item>
 <title>[COLOR limegreen][B]µTorrent[/B][/COLOR] Blu-Ray 720p  [COLOR orange]1,41 GB[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6287681606BCE9DB87C9F85CD979EB4417CFB3EF&dn</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aed077b83ac8d1828247a9f3a808ed06ea42f6f9</link>
 <thumbnail>https://image.tmdb.org/t/p/original/k36UzsRQaY6E055cdYPdYbyREer.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/2Su8VR1SfnMBK9gAlEaajYyoxO6.jpg</fanart>
 <info>[COLOR aquamarine]Título Original:[/COLOR] John Wick: Chapter 2
@@ -58,7 +21,7 @@ item>
 
 <item>
 <title>[COLOR limegreen][B]µTorrent[/B][/COLOR] Blu-Ray 1080p  [COLOR orange]2,39 GB[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6287681606BCE9DB87C9F85CD979EB4417CFB3EF&dn</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d40dd44066d2fc7b73a87effd1039c13d8ec694c</link>
 <thumbnail>https://image.tmdb.org/t/p/original/k36UzsRQaY6E055cdYPdYbyREer.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/2Su8VR1SfnMBK9gAlEaajYyoxO6.jpg</fanart>
 <info>[COLOR aquamarine]Título Original:[/COLOR] John Wick: Chapter 2
@@ -74,7 +37,7 @@ item>
 
 <item>
 <title>[COLOR limegreen][B]µTorrent[/B][/COLOR] Blu-Ray 4k  [COLOR orange]12,2 GB[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6287681606BCE9DB87C9F85CD979EB4417CFB3EF&dn</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ae39f23c416945c291da5fc962b9b21096e20e18</link>
 <thumbnail>https://image.tmdb.org/t/p/original/k36UzsRQaY6E055cdYPdYbyREer.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/2Su8VR1SfnMBK9gAlEaajYyoxO6.jpg</fanart>
 <info>[COLOR aquamarine]Título Original:[/COLOR] John Wick: Chapter 2
@@ -87,9 +50,6 @@ item>
 [COLOR aquamarine]Sinopse:[/COLOR] Após recuperar seu carro, John Wick (Keanu Reeves) acredita que enfim poderá se aposentar. Entretanto, a reaparição de Santino D’Antonio (Riccardo Scarmacio) atrapalha seus planos. Dono de uma promissória em nome de Wick, por ele usada para deixar o posto de assassino profissional da Alta Cúpula, Santino cobra a dívida existente e insiste para que ele mate sua própria irmã, Gianna (Claudia Gerini).
 </info>
 </item>
-
-
-
 -------------------------------------------------------------------------------------------------------------------------------------
 <channels></channels>
 <channel>
