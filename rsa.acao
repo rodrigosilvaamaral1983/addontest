@@ -1,6 +1,6 @@
 <channels></channels>
 <channel>
-<name>[B]John Wick 2: Um Novo Dia para Matar[/B]   [COLOR lightgray]2017[/COLOR]</name>
+<name>John Wick 2: Um Novo Dia para Matar</name>
 <thumbnail>https://image.tmdb.org/t/p/original/k36UzsRQaY6E055cdYPdYbyREer.jpg</thumbnail>
 <info>[COLOR aquamarine]Título Original:[/COLOR] John Wick: Chapter 2
 [COLOR aquamarine]Dirigido por:[/COLOR] Chad Stahelski
@@ -48,7 +48,7 @@
 ----------------------------------------------------------------------------------------------//---------------------------------------------------------------------------
 <channels></channels>
 <channel>
-<name>[B]John Wick: De Volta ao Jogo[/B]   [COLOR lightgray]2014[/COLOR]</name>
+<name>John Wick: De Volta ao Jogo</name>
 <thumbnail>https://image.tmdb.org/t/p/original/rboZslo3eQWKBQ3QvlO6wGV0J3K.jpg</thumbnail>
 
 <item>
@@ -65,7 +65,6 @@
 [COLOR aquamarine]Sinopse:[/COLOR] ohn Wick é um lendário assassino de aluguel aposentado, lidando com o luto após perder o grande amor de sua vida. Quando um gângster invade sua casa, mata seu cachorro e rouba seu carro, ele é forçado a voltar à ativa e inicia sua vingança.
 </info>
 </item>
-
 <item>
 <title>[COLOR limegreen][B]µTorrent[/B][/COLOR] Blu-Ray 1080p  [COLOR orange]1,86 GB[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29dec5ec6302c8521a394a193bfdc3f68d2d8459</link>
@@ -80,7 +79,6 @@
 [COLOR aquamarine]Sinopse:[/COLOR] ohn Wick é um lendário assassino de aluguel aposentado, lidando com o luto após perder o grande amor de sua vida. Quando um gângster invade sua casa, mata seu cachorro e rouba seu carro, ele é forçado a voltar à ativa e inicia sua vingança.
 </info>
 </item>
-
 <item>
 <title>[COLOR limegreen][B]µTorrent[/B][/COLOR] Blu-Ray 4K  [COLOR orange]9,33 GB[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4fedb435319580fc6e2bbfb709a11489aa307d31</link>
