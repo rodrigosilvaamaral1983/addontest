@@ -2,6 +2,13 @@
 <channel>
 <name>John Wick 2: Um Novo Dia para Matar</name>
 <thumbnail>https://image.tmdb.org/t/p/original/k36UzsRQaY6E055cdYPdYbyREer.jpg</thumbnail>
+
+
+<item>
+<title>[COLOR limegreen][B]µTorrent[/B][/COLOR] Blu-Ray 720p  [COLOR orange]1,41 GB[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aed077b83ac8d1828247a9f3a808ed06ea42f6f9</link>
+<thumbnail>https://image.tmdb.org/t/p/original/k36UzsRQaY6E055cdYPdYbyREer.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/2Su8VR1SfnMBK9gAlEaajYyoxO6.jpg</fanart>
 <info>[COLOR aquamarine]Título Original:[/COLOR] John Wick: Chapter 2
 [COLOR aquamarine]Dirigido por:[/COLOR] Chad Stahelski
 [COLOR aquamarine]Estréia:[/COLOR] 8 de fevereiro de 2017
@@ -10,12 +17,8 @@
 [COLOR aquamarine]Idioma original:[/COLOR] Inglês
 [COLOR aquamarine]Sinopse:[/COLOR] Após recuperar seu carro, John Wick (Keanu Reeves) acredita que enfim poderá se aposentar. Entretanto, a reaparição de Santino D’Antonio (Riccardo Scarmacio) atrapalha seus planos. Dono de uma promissória em nome de Wick, por ele usada para deixar o posto de assassino profissional da Alta Cúpula, Santino cobra a dívida existente e insiste para que ele mate sua própria irmã, Gianna (Claudia Gerini).
 </info>
-<item>
-<title>[COLOR limegreen][B]µTorrent[/B][/COLOR] Blu-Ray 720p  [COLOR orange]1,41 GB[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aed077b83ac8d1828247a9f3a808ed06ea42f6f9</link>
-<thumbnail>https://image.tmdb.org/t/p/original/k36UzsRQaY6E055cdYPdYbyREer.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/2Su8VR1SfnMBK9gAlEaajYyoxO6.jpg</fanart>
 </item>
+
 <item>
 <title>[COLOR limegreen][B]µTorrent[/B][/COLOR] Blu-Ray 1080p  [COLOR orange]2,39 GB[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d40dd44066d2fc7b73a87effd1039c13d8ec694c</link>
@@ -29,6 +32,8 @@
 [COLOR aquamarine]Idioma original:[/COLOR] Inglês
 [COLOR aquamarine]Sinopse:[/COLOR] Após recuperar seu carro, John Wick (Keanu Reeves) acredita que enfim poderá se aposentar. Entretanto, a reaparição de Santino D’Antonio (Riccardo Scarmacio) atrapalha seus planos. Dono de uma promissória em nome de Wick, por ele usada para deixar o posto de assassino profissional da Alta Cúpula, Santino cobra a dívida existente e insiste para que ele mate sua própria irmã, Gianna (Claudia Gerini).
 </info>
+</item>
+
 <item>
 <title>[COLOR limegreen][B]µTorrent[/B][/COLOR] Blu-Ray 4k  [COLOR orange]13 GB[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ae39f23c416945c291da5fc962b9b21096e20e18</link>
@@ -65,6 +70,7 @@
 [COLOR aquamarine]Sinopse:[/COLOR] ohn Wick é um lendário assassino de aluguel aposentado, lidando com o luto após perder o grande amor de sua vida. Quando um gângster invade sua casa, mata seu cachorro e rouba seu carro, ele é forçado a voltar à ativa e inicia sua vingança.
 </info>
 </item>
+
 <item>
 <title>[COLOR limegreen][B]µTorrent[/B][/COLOR] Blu-Ray 1080p  [COLOR orange]1,86 GB[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29dec5ec6302c8521a394a193bfdc3f68d2d8459</link>
@@ -79,6 +85,7 @@
 [COLOR aquamarine]Sinopse:[/COLOR] ohn Wick é um lendário assassino de aluguel aposentado, lidando com o luto após perder o grande amor de sua vida. Quando um gângster invade sua casa, mata seu cachorro e rouba seu carro, ele é forçado a voltar à ativa e inicia sua vingança.
 </info>
 </item>
+
 <item>
 <title>[COLOR limegreen][B]µTorrent[/B][/COLOR] Blu-Ray 4K  [COLOR orange]9,33 GB[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4fedb435319580fc6e2bbfb709a11489aa307d31</link>
