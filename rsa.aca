@@ -2,12 +2,6 @@
 <channel>
 <name>[B]John Wick 2: Um Novo Dia para Matar[/B] [COLOR lightgray](2017)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/k36UzsRQaY6E055cdYPdYbyREer.jpg</thumbnail>
-
-<item>
-<title>[COLOR limegreen][B]µTorrent[/B][/COLOR] Blu-Ray 720p  [COLOR orange]1,41 GB[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aed077b83ac8d1828247a9f3a808ed06ea42f6f9</link>
-<thumbnail>https://image.tmdb.org/t/p/original/k36UzsRQaY6E055cdYPdYbyREer.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/2Su8VR1SfnMBK9gAlEaajYyoxO6.jpg</fanart>
 <info>[COLOR aquamarine]Título Original:[/COLOR] John Wick: Chapter 2
 [COLOR aquamarine]Dirigido por:[/COLOR] Chad Stahelski
 [COLOR aquamarine]Estréia:[/COLOR] 8 de fevereiro de 2017
@@ -16,6 +10,12 @@
 [COLOR aquamarine]Idioma original:[/COLOR] Inglês
 [COLOR aquamarine]Sinopse:[/COLOR] Após recuperar seu carro, John Wick (Keanu Reeves) acredita que enfim poderá se aposentar. Entretanto, a reaparição de Santino D’Antonio (Riccardo Scarmacio) atrapalha seus planos. Dono de uma promissória em nome de Wick, por ele usada para deixar o posto de assassino profissional da Alta Cúpula, Santino cobra a dívida existente e insiste para que ele mate sua própria irmã, Gianna (Claudia Gerini).
 </info>
+
+<item>
+<title>[COLOR limegreen][B]µTorrent[/B][/COLOR] Blu-Ray 720p  [COLOR orange]1,41 GB[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aed077b83ac8d1828247a9f3a808ed06ea42f6f9</link>
+<thumbnail>https://image.tmdb.org/t/p/original/k36UzsRQaY6E055cdYPdYbyREer.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/2Su8VR1SfnMBK9gAlEaajYyoxO6.jpg</fanart>
 </item>
 
 <item>
@@ -48,6 +48,8 @@
 </info>
 </item>
 ------------------------------------------------------------------------------------------------//-------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------//---------------------------------------------------------------------------
 <channels></channels>
 <channel>
 <name>[B]John Wick: De Volta ao Jogo[/B] [COLOR lightgray](2014)[/COLOR]</name>
@@ -56,7 +58,7 @@
 <item>
 <title>[COLOR limegreen][B]µTorrent[/B][/COLOR] Blu-Ray 720p  [COLOR orange]749 MB[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3ab955daf356c6433681aad6db386666fd8a4205</link>
-<thumbnail>https://image.tmdb.org/t/p/original/k36UzsRQaY6E055cdYPdYbyREer.jpg</thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/original/rboZslo3eQWKBQ3QvlO6wGV0J3K.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/7dzngS8pLkGJpyeskCFcjPO9qLF.jpg</fanart>
 <info>[COLOR aquamarine]Título Original:[/COLOR] John Wick: Chapter 2
 [COLOR aquamarine]Dirigido por:[/COLOR] Chad Stahelski
@@ -71,7 +73,7 @@
 <item>
 <title>[COLOR limegreen][B]µTorrent[/B][/COLOR] Blu-Ray 1080p  [COLOR orange]1,86 GB[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29dec5ec6302c8521a394a193bfdc3f68d2d8459</link>
-<thumbnail>https://image.tmdb.org/t/p/original/k36UzsRQaY6E055cdYPdYbyREer.jpg</thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/original/rboZslo3eQWKBQ3QvlO6wGV0J3K.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/7dzngS8pLkGJpyeskCFcjPO9qLF.jpg</fanart>
 <info>[COLOR aquamarine]Título Original:[/COLOR] John Wick: Chapter 2
 [COLOR aquamarine]Dirigido por:[/COLOR] Chad Stahelski
@@ -86,7 +88,7 @@
 <item>
 <title>[COLOR limegreen][B]µTorrent[/B][/COLOR] Blu-Ray 4K  [COLOR orange]9,33 GB[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4fedb435319580fc6e2bbfb709a11489aa307d31</link>
-<thumbnail>https://image.tmdb.org/t/p/original/k36UzsRQaY6E055cdYPdYbyREer.jpg</thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/original/rboZslo3eQWKBQ3QvlO6wGV0J3K.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/7dzngS8pLkGJpyeskCFcjPO9qLF.jpg</fanart>
 <info>[COLOR aquamarine]Título Original:[/COLOR] John Wick: Chapter 2
 [COLOR aquamarine]Dirigido por:[/COLOR] Chad Stahelski
@@ -98,3 +100,5 @@
 </info>
 </item>
 --------------------------------------------------------------------------------------------//-----------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------//------------------------------------------------------------------------------------
