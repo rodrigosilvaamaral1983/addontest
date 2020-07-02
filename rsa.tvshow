@@ -1,6 +1,6 @@
 <channels></channels>
 <channel>
-<name>The Walking Dead</name>
+<name>The Walking Dead</name> 1
 <thumbnail>https://image.tmdb.org/t/p/original/fJKucbYtIzWwglqtRVOOH8i60Ug.jpg</thumbnail>
 
 <item>
@@ -50,7 +50,8 @@
 <channel>
 <name>Página 1 de 40</name>
 <thumbnail>.........</thumbnail>
-</channels>
+
+</info>
 
 <channels></channels>
 <channel>
