@@ -2,47 +2,24 @@
 <channel>
 <name>The Walking Dead</name> 1
 <thumbnail>https://image.tmdb.org/t/p/original/fJKucbYtIzWwglqtRVOOH8i60Ug.jpg</thumbnail>
-
+<fanart>https://image.tmdb.org/t/p/original/qaQH3qWucxIYv5ztQ176Q59CYSy.jpg</fanart>
 <item>
 <title>[COLOR orange][B]Temporada 9[/B][/COLOR]</title>
 <link>plugin://plugin</link>
 <thumbnail>https://image.tmdb.org/t/p/original/fJKucbYtIzWwglqtRVOOH8i60Ug.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/qaQH3qWucxIYv5ztQ176Q59CYSy.jpg</fanart>
-<info>[COLOR aquamarine]Título Alternativo:[/COLOR] The Walking Dead
-[COLOR aquamarine]Status:[/COLOR] [COLOR yellow]EM ANDAMENTO[/COLOR] 
-[COLOR aquamarine]Emissora:[/COLOR] FOX
-[COLOR aquamarine]Ano de estréia:[/COLOR] 2010
-[COLOR aquamarine]Temporadas:[/COLOR] 10
-[COLOR aquamarine]Gêneros:[/COLOR] Ação e aventura, Drama, Ficção científica e fantasia
-[COLOR aquamarine]Sinopse:[/COLOR] Um apocalipse provoca uma infestação de zumbis na cidade de Cynthiana, em Kentucky, nos Estados Unidos, e o oficial de polícia Rick Grimes (Andrew Lincoln) descobre que os mortos-vivos estão se propagando progressivamente. Ele decide unir-se aos homens e mulheres sobreviventes para que tenham mais força para combater o fenômeno que os atinge. O grupo percorre diferentes lugares em busca de soluções para o problema.
+<info>Um apocalipse provoca uma infestação de zumbis na cidade de Cynthiana, em Kentucky, nos Estados Unidos, e o oficial de polícia Rick Grimes (Andrew Lincoln) descobre que os mortos-vivos estão se propagando progressivamente. Ele decide unir-se aos homens e mulheres sobreviventes para que tenham mais força para combater o fenômeno que os atinge. O grupo percorre diferentes lugares em busca de soluções para o problema.
 </info>
-
 <item>
 <title>[COLOR orange]Iniciar[/COLOR] 720p Blu-Ray 15,0 GB</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7AAB57D066BDC22A58E8B7DD7D2405CC843DAB07&dn</link>
 <thumbnail>https://image.tmdb.org/t/p/original/fJKucbYtIzWwglqtRVOOH8i60Ug.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/qaQH3qWucxIYv5ztQ176Q59CYSy.jpg</fanart>
-<info>[COLOR aquamarine]Título Alternativo:[/COLOR] The Walking Dead
-[COLOR aquamarine]Status:[/COLOR] [COLOR yellow]EM ANDAMENTO[/COLOR] 
-[COLOR aquamarine]Emissora:[/COLOR] FOX
-[COLOR aquamarine]Ano de estréia:[/COLOR] 2010
-[COLOR aquamarine]Temporadas:[/COLOR] 9º
-[COLOR aquamarine]Gêneros:[/COLOR] Ação e aventura, Drama, Ficção científica e fantasia
-[COLOR aquamarine]Sinopse:[/COLOR] Um apocalipse provoca uma infestação de zumbis na cidade de Cynthiana, em Kentucky, nos Estados Unidos, e o oficial de polícia Rick Grimes (Andrew Lincoln) descobre que os mortos-vivos estão se propagando progressivamente. Ele decide unir-se aos homens e mulheres sobreviventes para que tenham mais força para combater o fenômeno que os atinge. O grupo percorre diferentes lugares em busca de soluções para o problema.
+<info>Um apocalipse provoca uma infestação de zumbis na cidade de Cynthiana, em Kentucky, nos Estados Unidos, e o oficial de polícia Rick Grimes (Andrew Lincoln) descobre que os mortos-vivos estão se propagando progressivamente. Ele decide unir-se aos homens e mulheres sobreviventes para que tenham mais força para combater o fenômeno que os atinge. O grupo percorre diferentes lugares em busca de soluções para o problema.
 </info>
-
 <item>
 <title>[COLOR orange]Iniciar[/COLOR] 1080p Blu-Ray 45,05 GB</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:210247036636C21BB01376055E4045520A74981A&dn</link>
 <thumbnail>https://image.tmdb.org/t/p/original/fJKucbYtIzWwglqtRVOOH8i60Ug.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/qaQH3qWucxIYv5ztQ176Q59CYSy.jpg</fanart>
-<info>[COLOR aquamarine]Título Alternativo:[/COLOR] The Walking Dead
-[COLOR aquamarine]Status:[/COLOR] [COLOR yellow]EM ANDAMENTO[/COLOR] 
-[COLOR aquamarine]Emissora:[/COLOR] FOX
-[COLOR aquamarine]Ano de estréia:[/COLOR] 2010
-[COLOR aquamarine]Temporadas:[/COLOR] 9º
-[COLOR aquamarine]Gêneros:[/COLOR] Ação e aventura, Drama, Ficção científica e fantasia
-[COLOR aquamarine]Sinopse:[/COLOR] Um apocalipse provoca uma infestação de zumbis na cidade de Cynthiana, em Kentucky, nos Estados Unidos, e o oficial de polícia Rick Grimes (Andrew Lincoln) descobre que os mortos-vivos estão se propagando progressivamente. Ele decide unir-se aos homens e mulheres sobreviventes para que tenham mais força para combater o fenômeno que os atinge. O grupo percorre diferentes lugares em busca de soluções para o problema.
+<info> Um apocalipse provoca uma infestação de zumbis na cidade de Cynthiana, em Kentucky, nos Estados Unidos, e o oficial de polícia Rick Grimes (Andrew Lincoln) descobre que os mortos-vivos estão se propagando progressivamente. Ele decide unir-se aos homens e mulheres sobreviventes para que tenham mais força para combater o fenômeno que os atinge. O grupo percorre diferentes lugares em busca de soluções para o problema.
 </info>
 ------------------------------------------------------------------------------------------------//-------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------//---------------------------------------------------------------------------
@@ -51,7 +28,7 @@
 
 <channels></channels>
 <channel>
-<name>Página 1 de 2</name>
+<name>Página 1 de 2...</name>
 <thumbnail>https://i.imgur.com/rJf8n1B.png</thumbnail>
 <link></link>
 <info>.......</info>
