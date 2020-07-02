@@ -1,7 +1,7 @@
 <channels></channels>
 <channel>
 <name>John Wick 2: Um Novo Dia para Matar</name>
-<thumbnail>https://image.tmdb.org/t/p/original/k36UzsRQaY6E055cdYPdYbyREer.jpg</thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/original/k36UzsRQaY6E055cdYPdYbyREer.jpg</thumbnail>     2017
 
 <item>
 <title>[COLOR orange]Iniciar[/COLOR] 720p Blu-Ray 1,40 GB</title>
@@ -122,7 +122,7 @@
 
 <item>
 <title>[COLOR orange]Iniciar[/COLOR] 720p Blu-Ray 748 MB</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3ab955daf356c6433681aad6db386666fd8a4205</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3ab955daf356c6433681aad6db386666fd8a4205</link>      2014
 <thumbnail>https://image.tmdb.org/t/p/original/rboZslo3eQWKBQ3QvlO6wGV0J3K.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/7dzngS8pLkGJpyeskCFcjPO9qLF.jpg</fanart>
 <info>[COLOR aquamarine]Título Original:[/COLOR] John Wick: Chapter 2
@@ -190,4 +190,3 @@
 [COLOR aquamarine]Sinopse:[/COLOR] ohn Wick é um lendário assassino de aluguel aposentado, lidando com o luto após perder o grande amor de sua vida. Quando um gângster invade sua casa, mata seu cachorro e rouba seu carro, ele é forçado a voltar à ativa e inicia sua vingança.
 </info>
 --------------------------------------------------------------------------------------------//-----------------------------------------------------------------------------------
--------------------------------------------------------------------------------------------//------------------------------------------------------------------------------------
