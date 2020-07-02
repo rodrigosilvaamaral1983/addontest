@@ -4,7 +4,7 @@
 <thumbnail>https://image.tmdb.org/t/p/original/k36UzsRQaY6E055cdYPdYbyREer.jpg</thumbnail>
 
 <item>
-<title>[COLOR orange]Iniciar[/COLOR] 720p Blu-Ray 1,5 GB MKV</title>
+<title>[COLOR orange]Iniciar[/COLOR] 720p Blu-Ray 1,40 GB MKV</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aed077b83ac8d1828247a9f3a808ed06ea42f6f9</link>
 <thumbnail>https://image.tmdb.org/t/p/original/k36UzsRQaY6E055cdYPdYbyREer.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/2Su8VR1SfnMBK9gAlEaajYyoxO6.jpg</fanart>
@@ -18,22 +18,8 @@
 </info>
 
 <item>
-<title>[COLOR orange]Iniciar[/COLOR] 1080p Blu-Ray 2,6 GB MKV</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d40dd44066d2fc7b73a87effd1039c13d8ec694c</link>
-<thumbnail>https://image.tmdb.org/t/p/original/k36UzsRQaY6E055cdYPdYbyREer.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/2Su8VR1SfnMBK9gAlEaajYyoxO6.jpg</fanart>
-<info>[COLOR aquamarine]Título Original:[/COLOR] John Wick: Chapter 2
-[COLOR aquamarine]Dirigido por:[/COLOR] Chad Stahelski
-[COLOR aquamarine]Estréia:[/COLOR] 8 de fevereiro de 2017
-[COLOR aquamarine]Duração:[/COLOR] 2h 2m
-[COLOR yellow]Avaliaçãodo susuários:[/COLOR] 72%
-[COLOR aquamarine]Idioma original:[/COLOR] Inglês
-[COLOR aquamarine]Sinopse:[/COLOR] Após recuperar seu carro, John Wick (Keanu Reeves) acredita que enfim poderá se aposentar. Entretanto, a reaparição de Santino D’Antonio (Riccardo Scarmacio) atrapalha seus planos. Dono de uma promissória em nome de Wick, por ele usada para deixar o posto de assassino profissional da Alta Cúpula, Santino cobra a dívida existente e insiste para que ele mate sua própria irmã, Gianna (Claudia Gerini).
-</info>
-
-<item>
-<title>[COLOR orange]Iniciar[/COLOR] 4k Blu-Ray 13,0 GB MKV</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ae39f23c416945c291da5fc962b9b21096e20e18</link>
+<title>[COLOR orange]Iniciar[/COLOR] 720p Blu-Ray 1,42 GB MKV</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0D1565F98FAE18E7B7C38EE2870989435C3E6304&dn</link>
 <thumbnail>https://image.tmdb.org/t/p/original/k36UzsRQaY6E055cdYPdYbyREer.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/2Su8VR1SfnMBK9gAlEaajYyoxO6.jpg</fanart>
 <info>[COLOR aquamarine]Título Original:[/COLOR] John Wick: Chapter 2
@@ -72,8 +58,63 @@
 [COLOR aquamarine]Idioma original:[/COLOR] Inglês
 [COLOR aquamarine]Sinopse:[/COLOR] Após recuperar seu carro, John Wick (Keanu Reeves) acredita que enfim poderá se aposentar. Entretanto, a reaparição de Santino D’Antonio (Riccardo Scarmacio) atrapalha seus planos. Dono de uma promissória em nome de Wick, por ele usada para deixar o posto de assassino profissional da Alta Cúpula, Santino cobra a dívida existente e insiste para que ele mate sua própria irmã, Gianna (Claudia Gerini).
 </info>
+
+<item>
+<title>[COLOR orange]Iniciar[/COLOR] 1080p Blu-Ray 2,39 GB MKV</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d40dd44066d2fc7b73a87effd1039c13d8ec694c</link>
+<thumbnail>https://image.tmdb.org/t/p/original/k36UzsRQaY6E055cdYPdYbyREer.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/2Su8VR1SfnMBK9gAlEaajYyoxO6.jpg</fanart>
+<info>[COLOR aquamarine]Título Original:[/COLOR] John Wick: Chapter 2
+[COLOR aquamarine]Dirigido por:[/COLOR] Chad Stahelski
+[COLOR aquamarine]Estréia:[/COLOR] 8 de fevereiro de 2017
+[COLOR aquamarine]Duração:[/COLOR] 2h 2m
+[COLOR yellow]Avaliaçãodo susuários:[/COLOR] 72%
+[COLOR aquamarine]Idioma original:[/COLOR] Inglês
+[COLOR aquamarine]Sinopse:[/COLOR] Após recuperar seu carro, John Wick (Keanu Reeves) acredita que enfim poderá se aposentar. Entretanto, a reaparição de Santino D’Antonio (Riccardo Scarmacio) atrapalha seus planos. Dono de uma promissória em nome de Wick, por ele usada para deixar o posto de assassino profissional da Alta Cúpula, Santino cobra a dívida existente e insiste para que ele mate sua própria irmã, Gianna (Claudia Gerini).
+</info>
+
+<item>
+<title>[COLOR orange]Iniciar[/COLOR] 1080p Blu-Ray 2,51 GB MKV</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9B0501CCF9162EF8095D6DA69133E63028924641&dn</link>
+<thumbnail>https://image.tmdb.org/t/p/original/k36UzsRQaY6E055cdYPdYbyREer.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/2Su8VR1SfnMBK9gAlEaajYyoxO6.jpg</fanart>
+<info>[COLOR aquamarine]Título Original:[/COLOR] John Wick: Chapter 2
+[COLOR aquamarine]Dirigido por:[/COLOR] Chad Stahelski
+[COLOR aquamarine]Estréia:[/COLOR] 8 de fevereiro de 2017
+[COLOR aquamarine]Duração:[/COLOR] 2h 2m
+[COLOR yellow]Avaliaçãodo susuários:[/COLOR] 72%
+[COLOR aquamarine]Idioma original:[/COLOR] Inglês
+[COLOR aquamarine]Sinopse:[/COLOR] Após recuperar seu carro, John Wick (Keanu Reeves) acredita que enfim poderá se aposentar. Entretanto, a reaparição de Santino D’Antonio (Riccardo Scarmacio) atrapalha seus planos. Dono de uma promissória em nome de Wick, por ele usada para deixar o posto de assassino profissional da Alta Cúpula, Santino cobra a dívida existente e insiste para que ele mate sua própria irmã, Gianna (Claudia Gerini).
+</info>
+
+<item>
+<title>[COLOR orange]Iniciar[/COLOR] 1080p Blu-Ray 8,27 GB MKV</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:839B1248645AC3D80A3CC84E85E12F8F9F4CD2D8&dn</link>
+<thumbnail>https://image.tmdb.org/t/p/original/k36UzsRQaY6E055cdYPdYbyREer.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/2Su8VR1SfnMBK9gAlEaajYyoxO6.jpg</fanart>
+<info>[COLOR aquamarine]Título Original:[/COLOR] John Wick: Chapter 2
+[COLOR aquamarine]Dirigido por:[/COLOR] Chad Stahelski
+[COLOR aquamarine]Estréia:[/COLOR] 8 de fevereiro de 2017
+[COLOR aquamarine]Duração:[/COLOR] 2h 2m
+[COLOR yellow]Avaliaçãodo susuários:[/COLOR] 72%
+[COLOR aquamarine]Idioma original:[/COLOR] Inglês
+[COLOR aquamarine]Sinopse:[/COLOR] Após recuperar seu carro, John Wick (Keanu Reeves) acredita que enfim poderá se aposentar. Entretanto, a reaparição de Santino D’Antonio (Riccardo Scarmacio) atrapalha seus planos. Dono de uma promissória em nome de Wick, por ele usada para deixar o posto de assassino profissional da Alta Cúpula, Santino cobra a dívida existente e insiste para que ele mate sua própria irmã, Gianna (Claudia Gerini).
+</info>
+
+<item>
+<title>[COLOR orange]Iniciar[/COLOR] 4k Blu-Ray 12,1 GB MKV</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ae39f23c416945c291da5fc962b9b21096e20e18</link>
+<thumbnail>https://image.tmdb.org/t/p/original/k36UzsRQaY6E055cdYPdYbyREer.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/2Su8VR1SfnMBK9gAlEaajYyoxO6.jpg</fanart>
+<info>[COLOR aquamarine]Título Original:[/COLOR] John Wick: Chapter 2
+[COLOR aquamarine]Dirigido por:[/COLOR] Chad Stahelski
+[COLOR aquamarine]Estréia:[/COLOR] 8 de fevereiro de 2017
+[COLOR aquamarine]Duração:[/COLOR] 2h 2m
+[COLOR yellow]Avaliaçãodo susuários:[/COLOR] 72%
+[COLOR aquamarine]Idioma original:[/COLOR] Inglês
+[COLOR aquamarine]Sinopse:[/COLOR] Após recuperar seu carro, John Wick (Keanu Reeves) acredita que enfim poderá se aposentar. Entretanto, a reaparição de Santino D’Antonio (Riccardo Scarmacio) atrapalha seus planos. Dono de uma promissória em nome de Wick, por ele usada para deixar o posto de assassino profissional da Alta Cúpula, Santino cobra a dívida existente e insiste para que ele mate sua própria irmã, Gianna (Claudia Gerini).
+</info>
 ------------------------------------------------------------------------------------------------//-------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------//---------------------------------------------------------------------------
 <channels></channels>
 <channel>
 <name>John Wick: De Volta ao Jogo</name>
