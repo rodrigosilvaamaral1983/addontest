@@ -47,17 +47,13 @@
 -------------------------------------------------------------------------------------//----------------------------------------------------------------------------
 <channels></channels>
 <channel>
-<name></name> 
-<thumbnail></thumbnail>    2019
-<fanart></fanart>
+<name>teste</name> 
+<thumbnail>https://image.tmdb.org/t/p/original/t3ISCnnSuaF2kKiiVMwsXZw9VMA.jpg</thumbnail>    2019
+<fanart>https://image.tmdb.org/t/p/original/19Ed4XgjahPm4U8JT7SnntERIlt.jpg</fanart>
 <item>
 <title>[COLOR orange]Iniciar[/COLOR] 720p Blu-Ray 1,01 GB</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d3d510547c8fb859b97cd4133148ba9629e5327b</link>
-<thumbnail></thumbnail>
-<info></info>
+<thumbnail>https://image.tmdb.org/t/p/original/t3ISCnnSuaF2kKiiVMwsXZw9VMA.jpg</thumbnail>
+<info>test2</info>
 <item>
-<title>[COLOR orange]Iniciar[/COLOR] 720p Blu-Ray 1,01 GB</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d3d510547c8fb859b97cd4133148ba9629e5327b</link>
-<thumbnail></thumbnail>
-<info></info>
-<item>
+
