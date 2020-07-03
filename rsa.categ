@@ -2,7 +2,7 @@
 
 <channel>
 <name>Ação</name>
-<thumbnail>https://i.imgur.com/VjVQ7QA.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/qoSBBFy.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/rodrigosilvaamaral1983/projt2020g/master/rsa.acao</externallink>
 <fanart>https://i.imgur.com/EVfIr6E.jpg</fanart>
 <info>[COLOR black] [/COLOR]</info>
@@ -11,18 +11,8 @@
 <channels>
 
 <channel>
-<name>Ação & Aventura </name>
-<thumbnail>https://i.imgur.com/BIFv6af.png</thumbnail>
-<externallink>https://</externallink>
-<fanart>https://i.imgur.com/EVfIr6E.jpg</fanart>
-<info>[COLOR black] [/COLOR]</info>
-</channel>
-
-<channels>
-
-<channel>
 <name>Animação</name>
-<thumbnail>https://i.imgur.com/vlw7aL5.png</thumbnail>
+<thumbnail>https://i.imgur.com/qGNiJz5.jpg</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://i.imgur.com/EVfIr6E.jpg</fanart>
 <info>[COLOR black] [/COLOR]</info>
@@ -31,8 +21,18 @@
 <channels>
 
 <channel>
-<name>Comédia</name>
-<thumbnail>https://i.imgur.com/HDLocES.jpg</thumbnail>
+<name>Aventura</name>
+<thumbnail>https://i.imgur.com/KAoJLVX.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://i.imgur.com/EVfIr6E.jpg</fanart>
+<info>[COLOR black] [/COLOR]</info>
+</channel>
+
+<channels>
+
+<channel>
+<name>Biografia</name>
+<thumbnail>https://i.imgur.com/XrtFF2Y.jpg</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://i.imgur.com/EVfIr6E.jpg</fanart>
 <info>[COLOR black] [/COLOR]</info>
