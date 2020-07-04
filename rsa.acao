@@ -58,33 +58,40 @@
 ----------------------------------------------------------------John Wick: De Volta ao Jogo (2014)-------------------------------------------------------------------------
 <channels></channels>
 <channel>
-<name>John Wick: De Volta ao Jogo</name>
-<thumbnail>https://image.tmdb.org/t/p/original/rboZslo3eQWKBQ3QvlO6wGV0J3K.jpg</thumbnail>
+<name>John Wick: De Volta ao Jogo [COLOR aqua](2014)[/COLOR]</name> 
+<thumbnail>https://image.tmdb.org/t/p/original/rboZslo3eQWKBQ3QvlO6wGV0J3K.jpg</thumbnail>    
 <fanart>https://image.tmdb.org/t/p/original/7dzngS8pLkGJpyeskCFcjPO9qLF.jpg</fanart>
-<info>John Wick é um lendário assassino de aluguel aposentado, lidando com o luto após perder o grande amor de sua vida. Quando um gângster invade sua casa, mata seu cachorro e rouba seu carro, ele é forçado a voltar à ativa e inicia sua vingança.</info>
+<info>[COLOR deepskyblue]Título Original:[/COLOR] John Wick
+[COLOR deepskyblue]Dirigido por:[/COLOR] Chad Stahelski
+[COLOR deepskyblue]Estréia:[/COLOR] 22 de outubro de 2014
+[COLOR deepskyblue]Duração:[/COLOR] 1h 41m
+[COLOR deepskyblue]Áudio:[/COLOR] [COLOR gold]Português & Inglês[/COLOR]
+[COLOR deepskyblue][B]Sinopse[/B]:[/COLOR] John Wick é um lendário assassino de aluguel aposentado, lidando com o luto após perder o grande amor de sua vida. Quando um gângster invade sua casa, mata seu cachorro e rouba seu carro, ele é forçado a voltar à ativa e inicia sua vingança.
+</info>
 <item>
-<title>[COLOR orange]Iniciar[/COLOR] 720p Blu-Ray 748 MB</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3ab955daf356c6433681aad6db386666fd8a4205</link>      
+<title>[COLOR orange]Iniciar[/COLOR] [COLOR aqua][B]720p[/B][/COLOR] BDRip [748 MB]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3ab955daf356c6433681aad6db386666fd8a4205</link>
 <thumbnail>https://image.tmdb.org/t/p/original/rboZslo3eQWKBQ3QvlO6wGV0J3K.jpg</thumbnail>
 <info>[COLOR black] [/COLOR]</info>
 <item>
-<title>[COLOR orange]Iniciar[/COLOR] 1080p Blu-Ray 1,54 GB</title>
+<item>
+<title>[COLOR orange]Iniciar[/COLOR] [COLOR lime][B]1080p[/B][/COLOR] BDRip [1,54 GB]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7d75802e171b1bd3a83fded3e141b9cab02ae574</link>
 <thumbnail>https://image.tmdb.org/t/p/original/rboZslo3eQWKBQ3QvlO6wGV0J3K.jpg</thumbnail>
 <info>[COLOR black] [/COLOR]</info>
 <item>
-<title>[COLOR orange]Iniciar[/COLOR] 1080p Blu-Ray 1,85 GB</title>
+<title>[COLOR orange]Iniciar[/COLOR] [COLOR lime][B]1080p[/B][/COLOR] BDRip [1,85 GB]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29dec5ec6302c8521a394a193bfdc3f68d2d8459</link>
 <thumbnail>https://image.tmdb.org/t/p/original/rboZslo3eQWKBQ3QvlO6wGV0J3K.jpg</thumbnail>
 <info>[COLOR black] [/COLOR]</info>
 <item>
-<title>[COLOR orange]Iniciar[/COLOR] 4k Blu-Ray 8,93 GB</title>
+<title>[COLOR orange]Iniciar[/COLOR] [COLOR mediumslateblue][B]4k[/B][/COLOR] BDRip [8,93 GB]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:34b1f13ed5a4d258a3bc409d66d1b7b7f522519f</link>
-<thumbnail>https://image.tmdb.org/t/p/original/rboZslo3eQWKBQ3QvlO6wGV0J3K.jpg</thumbnail>
+<thumbnail>CAPA</thumbnail>
 <info>[COLOR black] [/COLOR]</info>
 <item>
-<title>[COLOR orange]Iniciar[/COLOR] 4k Blu-Ray 9,33 GB</title>
+<title>[COLOR orange]Iniciar[/COLOR] [COLOR mediumslateblue][B]4k[/B][/COLOR] BDRip [9,33 GB]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4fedb435319580fc6e2bbfb709a11489aa307d31</link>
 <thumbnail>https://image.tmdb.org/t/p/original/rboZslo3eQWKBQ3QvlO6wGV0J3K.jpg</thumbnail>
 <info>[COLOR black] [/COLOR]</info>
---------------------------------------------------------------------------------------------//-----------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
