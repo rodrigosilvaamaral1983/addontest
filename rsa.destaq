@@ -1,52 +1,47 @@
 <channels></channels>
 <channel>
-<name>John Wick 2: Um Novo Dia para Matar [COLOR aqua](2017)[/COLOR]</name> 
+<name>John Wick 2: Um Novo Dia para Matar</name> 
 <thumbnail>https://image.tmdb.org/t/p/original/k36UzsRQaY6E055cdYPdYbyREer.jpg</thumbnail>    
 <fanart>https://image.tmdb.org/t/p/original/2Su8VR1SfnMBK9gAlEaajYyoxO6.jpg</fanart>
-<info>[COLOR deepskyblue]Título Original:[/COLOR] John Wick: Chapter 2
-[COLOR deepskyblue]Dirigido por:[/COLOR] Chad Stahelski
-[COLOR deepskyblue]Estréia:[/COLOR] 8 de fevereiro de 2017
-[COLOR deepskyblue]Duração:[/COLOR] 2h 2m
-[COLOR deepskyblue]Áudio:[/COLOR] [COLOR gold]Português & Inglês[/COLOR]
-[COLOR deepskyblue][B]Sinopse[/B]:[/COLOR] Por causa de uma promessa antiga, John Wick viaja para Roma com o objetivo de ajudar um velho amigo a derrubar uma organização secreta, perigosa e mortal de assassinos procurados em todo o mundo
+<info>Por causa de uma promessa antiga, John Wick viaja para Roma com o objetivo de ajudar um velho amigo a derrubar uma organização secreta, perigosa e mortal de assassinos procurados em todo o mundo
 </info>
 <item>
-<title>[COLOR orange]Iniciar[/COLOR] [COLOR aqua][B]720p[/B][/COLOR] BDRip [1,05 GB]</title>
+<title>[B]OPÇÃO 720p [1,05 GB][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0c3281dcdc17874ba1be0a3b7767e3390b16c18a</link>
 <thumbnail>https://image.tmdb.org/t/p/original/k36UzsRQaY6E055cdYPdYbyREer.jpg</thumbnail>
 <info>[COLOR black] [/COLOR]</info>
 <item>
-<title>[COLOR orange]Iniciar[/COLOR] [COLOR aqua][B]720p[/B][/COLOR] BDRip [1,40 GB]</title>
+<title>[B]OPÇÃO 720p [1,40 GB][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aed077b83ac8d1828247a9f3a808ed06ea42f6f9</link>
 <thumbnail>https://image.tmdb.org/t/p/original/k36UzsRQaY6E055cdYPdYbyREer.jpg</thumbnail>
 <info>[COLOR black] [/COLOR]</info>
 <item>
-<title>[COLOR orange]Iniciar[/COLOR] [COLOR aqua][B]720p[/B][/COLOR] BDRip [1,42 GB]</title>
+<title>[B]OPÇÃO 720p [1,42 GB][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0D1565F98FAE18E7B7C38EE2870989435C3E6304&dn</link>
 <thumbnail>https://image.tmdb.org/t/p/original/k36UzsRQaY6E055cdYPdYbyREer.jpg</thumbnail>
 <info>[COLOR black] [/COLOR]</info>
 <item>
-<title>[COLOR orange]Iniciar[/COLOR] [COLOR lime][B]1080p[/B][/COLOR] BDRip [1,18 GB]</title>
+<title>[B]OPÇÃO 1080p [1,18 GB][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=magnet:?xt=urn:btih:a7cec3e7eccc73cb5b5bdf734092687c86501b74</link>
 <thumbnail>https://image.tmdb.org/t/p/original/k36UzsRQaY6E055cdYPdYbyREer.jpg</thumbnail>
 <info>[COLOR black] [/COLOR]</info>
 <item>
-<title>[COLOR orange]Iniciar[/COLOR] [COLOR lime][B]1080p[/B][/COLOR] BDRip [2,39 GB]</title>
+<title>[B]OPÇÃO 1080p [2,39 GB][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d40dd44066d2fc7b73a87effd1039c13d8ec694c</link>
 <thumbnail>https://image.tmdb.org/t/p/original/k36UzsRQaY6E055cdYPdYbyREer.jpg</thumbnail>
 <info>[COLOR black] [/COLOR]</info>
 <item>
-<title>[COLOR orange]Iniciar[/COLOR] [COLOR lime][B]1080p[/B][/COLOR] BDRip [2,51 GB]</title>
+<title>[B]OPÇÃO 1080p [2,51 GB][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9B0501CCF9162EF8095D6DA69133E63028924641&dn</link>
 <thumbnail>https://image.tmdb.org/t/p/original/k36UzsRQaY6E055cdYPdYbyREer.jpg</thumbnail>
 <info>[COLOR black] [/COLOR]</info>
 <item>
-<title>[COLOR orange]Iniciar[/COLOR] [COLOR lime][B]1080p[/B][/COLOR] BDRip [8,27 GB]</title>
+<title>[B]OPÇÃO 1080p [8,27 GB][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:839B1248645AC3D80A3CC84E85E12F8F9F4CD2D8&dn</link>
 <thumbnail>https://image.tmdb.org/t/p/original/k36UzsRQaY6E055cdYPdYbyREer.jpg</thumbnail>
 <info>[COLOR black] [/COLOR]</info>
 <item>
-<title>[COLOR orange]Iniciar[/COLOR] [COLOR mediumslateblue][B]4k[/B][/COLOR] BDRip [12,1 GB]</title>
+<title>[B]OPÇÃO 4k [12,01 GB][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ae39f23c416945c291da5fc962b9b21096e20e18</link>
 <thumbnail>https://image.tmdb.org/t/p/original/k36UzsRQaY6E055cdYPdYbyREer.jpg</thumbnail>
 <info>[COLOR black] [/COLOR]</info>
@@ -90,185 +85,3 @@
 <thumbnail>https://image.tmdb.org/t/p/original/rboZslo3eQWKBQ3QvlO6wGV0J3K.jpg</thumbnail>
 <info>[COLOR black] [/COLOR]</info>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<channels></channels>
-<channel>
-<name>Pokémon: Detetive Pikachu</name> 
-<thumbnail>https://image.tmdb.org/t/p/original/lHwEhsUaB9D0gXO6M08H5tdb2Vx.jpg</thumbnail>    2019
-<fanart>https://image.tmdb.org/t/p/original/nDP33LmQwNsnPv29GQazz59HjJI.jpg</fanart>
-<info>A história começa quando o detective particular Harry Goodman desaparece misteriosamente, levando seu filho Tim, de 21 anos, a tentar descobrir o que aconteceu. Quem ajuda na investigação é o antigo parceiro Pokémon de Harry, o Detetive Pikachu: um adorável superdetetive divertido e brincalhão que é um enigma até para si mesmo. Após descobrirem que são capazes de se comunicar um com o outro, Tim e Pikachu unem forças em uma aventura para desvendar esse mistério. Reunindo pistas pelas ruas de Ryme City, uma gigantesca metrópole moderna onde seres humanos e Pokémons convivem lado a lado em um mundo hiper-realista, eles encontram pelo caminho um elenco diversificado de personagens Pokémon e revelam uma trama chocante que poderia arruinar essa coexistência pacífica e ameaçar todo o universo Pokémon.</info>
-<item>
-<title>[COLOR orange]Iniciar[/COLOR] 720p Blu-Ray 1,01 GB</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5d65cf487e9ae99003a8a7af6556afcec4bfbfd9</link>
-<thumbnail>https://image.tmdb.org/t/p/original/lHwEhsUaB9D0gXO6M08H5tdb2Vx.jpg</thumbnail>
-<info>[COLOR black] [/COLOR]</info>
-<item>
-<title>[COLOR orange]Iniciar[/COLOR] 720p Blu-Ray 1,11 GB</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:df3b5f1c0af12cd4776ddbc7406d2b0fa3d2406f</link>
-<thumbnail>https://image.tmdb.org/t/p/original/lHwEhsUaB9D0gXO6M08H5tdb2Vx.jpg</thumbnail>
-<info>[COLOR black] [/COLOR]</info>
-<item>
-<title>[COLOR orange]Iniciar[/COLOR] 1080p Blu-Ray 1,57 GB</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e109e4b9103d820ee23721e98ef119915b34dc97</link>
-<thumbnail>https://image.tmdb.org/t/p/original/lHwEhsUaB9D0gXO6M08H5tdb2Vx.jpg</thumbnail>
-<info>[COLOR black] [/COLOR]</info>
-<item>
-<title>[COLOR orange]Iniciar[/COLOR] 1080p Blu-Ray 2,16 GB</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:43c230046ff5523e0b05c0a7d8dd6ae878ab34f5</link>
-<thumbnail>https://image.tmdb.org/t/p/original/lHwEhsUaB9D0gXO6M08H5tdb2Vx.jpg</thumbnail>
-<info>[COLOR black] [/COLOR]</info>
-<item>
-<title>[COLOR orange]Iniciar[/COLOR] 1080p Blu-Ray 2,19 GB</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:54cc327b8ecefab6f47e26b4f673d0b294d64ead</link>
-<thumbnail>https://image.tmdb.org/t/p/original/lHwEhsUaB9D0gXO6M08H5tdb2Vx.jpg</thumbnail>
-<info>[COLOR black] [/COLOR]</info>
-<item>
-<title>[COLOR orange]Iniciar[/COLOR] 1080p Blu-Ray 6,88 GB</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2a57f2d2fe180aea166a012ded4f5a3693525520</link>
-<thumbnail>https://image.tmdb.org/t/p/original/lHwEhsUaB9D0gXO6M08H5tdb2Vx.jpg</thumbnail>
-<info>[COLOR black] [/COLOR]</info>
-<item>
-<title>[COLOR orange]Iniciar[/COLOR] 4K Blu-Ray 17,9 GB</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6cd70d193f92599b2a7d9702477de1b728db2f56</link>
-<thumbnail>https://image.tmdb.org/t/p/original/lHwEhsUaB9D0gXO6M08H5tdb2Vx.jpg</thumbnail>
-<info>[COLOR black] [/COLOR]</info>
-<item>
---------------------------------------------------------------------Pantera Negra (2018)-----------------------------------------------------------------
-<channels></channels>
-<channel>
-<name>Pantera Negra</name> 
-<thumbnail>https://image.tmdb.org/t/p/original/t3ISCnnSuaF2kKiiVMwsXZw9VMA.jpg</thumbnail>    2019
-<fanart>https://image.tmdb.org/t/p/original/19Ed4XgjahPm4U8JT7SnntERIlt.jpg</fanart>
-<info>Após a morte do Rei T'Chaka, o príncipe T'Challa retorna a Wakanda para a cerimônia de coroação. Nela são reunidas as cinco tribos que compõem o reino, sendo que uma delas, os Jabari, não apoia o atual governo. T'Challa logo recebe o apoio de Okoye, a chefe da guarda de Wakanda, da irmã Shuri, que coordena a área tecnológica do reino, e também de Nakia, a grande paixão do atual Pantera Negra, que não quer se tornar rainha. Juntos, eles estão à procura de Ulysses Klaue, que roubou de Wakanda um punhado de vibranium, alguns anos atrás.</info>
-<item>
-<title>[COLOR orange]Iniciar[/COLOR] 720p Blu-Ray 1,14 GB</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a961a533a63e6d89aa0337ceb9299655f21c3b02</link>
-<thumbnail>https://image.tmdb.org/t/p/original/t3ISCnnSuaF2kKiiVMwsXZw9VMA.jpg</thumbnail>
-<info>[COLOR black] [/COLOR]</info>
-<item>
-<title>[COLOR orange]Iniciar[/COLOR] 720p Blu-Ray 1,49 GB</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:562fdeeab269ce0d3c5e0fec2c03565710850f2e</link>
-<thumbnail>https://image.tmdb.org/t/p/original/t3ISCnnSuaF2kKiiVMwsXZw9VMA.jpg</thumbnail>
-<info>[COLOR black] [/COLOR]</info>
-<item>
-<title>[COLOR orange]Iniciar[/COLOR] 1080p Blu-Ray 2,17 GB</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:38cd899eb83fc9be339a81f68d7195886661990c</link>
-<thumbnail>https://image.tmdb.org/t/p/original/t3ISCnnSuaF2kKiiVMwsXZw9VMA.jpg</thumbnail>
-<info>[COLOR black] [/COLOR]</info>
-<item>
-<title>[COLOR orange]Iniciar[/COLOR] 1080p Blu-Ray 2,52 GB</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f03966b4f462acae056fea1e6444d357afd9af4a</link>
-<thumbnail>https://image.tmdb.org/t/p/original/t3ISCnnSuaF2kKiiVMwsXZw9VMA.jpg</thumbnail>
-<info>[COLOR black] [/COLOR]</info>
-<item>
-<title>[COLOR orange]Iniciar[/COLOR] 3D Blu-Ray 2,12 GB</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3c98aba0bdfe6836d2201a07d41e3ca7817f841f</link>
-<thumbnail>https://image.tmdb.org/t/p/original/t3ISCnnSuaF2kKiiVMwsXZw9VMA.jpg</thumbnail>
-<info>[COLOR black] [/COLOR]</info>
-<item>
-<title>[COLOR orange]Iniciar[/COLOR] 3D Blu-Ray 2,47 GB</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f4d87850716a9aafa4f0d32efd3d3845ca5797b7</link>
-<thumbnail>https://image.tmdb.org/t/p/original/t3ISCnnSuaF2kKiiVMwsXZw9VMA.jpg</thumbnail>
-<info>[COLOR black] [/COLOR]</info>
-<item>
-<title>[COLOR orange]Iniciar[/COLOR] 4K Blu-Ray 11,3 GB</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:586a40c2113efebf35fcd3ea68b2abf08c6caf17</link>
-<thumbnail>https://image.tmdb.org/t/p/original/t3ISCnnSuaF2kKiiVMwsXZw9VMA.jpg</thumbnail>
-<info>[COLOR black] [/COLOR]</info>
-<item>
-____________________________________________________________________Dois Irmãos: Uma Jornada Fantástica (2020)__________________________________________________________________
-<channels></channels>
-<channel>
-<name>Dois Irmãos: Uma Jornada Fantástica (2020)</name> 
-<thumbnail>https://image.tmdb.org/t/p/original/jsi2UM64Mhr6NmY1LKeeCuZOaCo.jpg</thumbnail>    2019
-<fanart>https://image.tmdb.org/t/p/original/bcT8CaBIj086WVD7K529h78eujb.jpg</fanart>
-<info>Em um mundo transformado, no qual as criaturas não dependiam mais da magia para viver, dois irmãos elfos recebem um cajado de bruxo de seu falecido pai, capaz de trazê-lo de volta à vida. Inexperientes com qualquer tipo de magia, Ian e Barley não conseguem executar o feitiço e acabam gerando uma criatura sem cabeça. Para passar mais um dia com seu pai, eles embarcam em uma jornada fantástica. Ao perceber a ausência dos filhos, sua mãe se une à uma lendária manticora para encontrá-los.</info>
-<item>
-<title>[COLOR orange]Iniciar[/COLOR] 720p Blu-Ray 1,19 GB</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dd9de23491b6af01e9246b8005540b6891090be6&dn</link>
-<thumbnail>https://image.tmdb.org/t/p/original/jsi2UM64Mhr6NmY1LKeeCuZOaCo.jpg</thumbnail>
-<info>[COLOR black] [/COLOR]</info>
-<item>
-<title>[COLOR orange]Iniciar[/COLOR] 720p Blu-Ray 3,61 GB</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1a973a7a5bd04031007661bec03f58bf55a07f5d&dn</link>
-<thumbnail>https://image.tmdb.org/t/p/original/jsi2UM64Mhr6NmY1LKeeCuZOaCo.jpg</thumbnail>
-<info>[COLOR black] [/COLOR]</info>
-<item>
-<title>[COLOR orange]Iniciar[/COLOR] 1080p Blu-Ray 1,94 GB</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b838c00015a17e5eda64cf96d65d349d3453cd82&dn</link>
-<thumbnail>https://image.tmdb.org/t/p/original/jsi2UM64Mhr6NmY1LKeeCuZOaCo.jpg</thumbnail>
-<info>[COLOR black] [/COLOR]</info>
-<item>
-<title>[COLOR orange]Iniciar[/COLOR] 1080p Blu-Ray 3,80 GB</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fdd5becad0db99991b5c9020a57ad60293fdc6ea&dn</link>
-<thumbnail>https://image.tmdb.org/t/p/original/jsi2UM64Mhr6NmY1LKeeCuZOaCo.jpg</thumbnail>
-<info>[COLOR black] [/COLOR]</info>
-<item>
-<title>[COLOR orange]Iniciar[/COLOR] 4k Blu-Ray 18,4 GB</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B61FB371565F6B8839070BA5A101F5F4A205AA7A&dn</link>
-<thumbnail>https://image.tmdb.org/t/p/original/jsi2UM64Mhr6NmY1LKeeCuZOaCo.jpg</thumbnail>
-<info>[COLOR black] [/COLOR]</info>
-<item>
-------------------------------------------------------------------------Êta Mundo Bom (2016)------------------------------------------------------
-<channels></channels>
-<channel>
-<name>Êta Mundo Bom (2016)</name> 
-<thumbnail>https://image.tmdb.org/t/p/original/1lXlsrSmXLZINsMHPleQWR293H0.jpg</thumbnail>    2019
-<fanart>https://image.tmdb.org/t/p/original/wlLvwnRKy0EMzKzbI2Foo9Koetn.jpg</fanart>
-<info>Candinho foi separado da mãe logo após seu nascimento e acolhido por um casal dono de uma fazenda. Mas quando cresce, Candinho é expulso por se apaixonar pela primogênita, Filomena. Candinho segue para a capital em busca da mãe biológica.</info>
-<item>
-
-<title>[COLOR orange]Capítulo:[/COLOR]  146</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1B7xAFUWQYiT2LZAJmKEjzKSUKDI52SSy/view</link>
-<thumbnail>https://image.tmdb.org/t/p/original/1lXlsrSmXLZINsMHPleQWR293H0.jpg</thumbnail>
-<info>[COLOR black] [/COLOR]</info>
-<item>
-<title>[COLOR orange]Capítulo:[/COLOR]  147</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1VX9Pk1u8RMOk5wwzErMsOFOKorgep3Y_/view</link>
-<thumbnail>https://image.tmdb.org/t/p/original/1lXlsrSmXLZINsMHPleQWR293H0.jpg</thumbnail>
-<info>[COLOR black] [/COLOR]</info>
-<item>
-<title>[COLOR orange]Capítulo:[/COLOR]  148</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1eHCwl3o57gkfSnavIWTAL_W9e6ikVKfQ/view</link>
-<thumbnail>https://image.tmdb.org/t/p/original/1lXlsrSmXLZINsMHPleQWR293H0.jpg</thumbnail>
-<info>[COLOR black] [/COLOR]</info>
-<item>
-<title>[COLOR orange]Capítulo:[/COLOR]  149</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ZtINsF3DgYObWvdNlpgtNfLh8uWpjvvu/view</link>
-<thumbnail>https://image.tmdb.org/t/p/original/1lXlsrSmXLZINsMHPleQWR293H0.jpg</thumbnail>
-<info>[COLOR black] [/COLOR]</info>
-<item>
-<title>[COLOR orange]Capítulo:[/COLOR]  150</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1UEIPmAwaG9QG4Lk9c1fV_Q411-BRpho9/view</link>
-<thumbnail>https://image.tmdb.org/t/p/original/1lXlsrSmXLZINsMHPleQWR293H0.jpg</thumbnail>
-<info>[COLOR black] [/COLOR]</info>
-<item>
-<title>[COLOR orange]Capítulo:[/COLOR]  151</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1UQ15f6ookx1INwn0k19qZ1w3YmyVpza8/view</link>
-<thumbnail>https://image.tmdb.org/t/p/original/1lXlsrSmXLZINsMHPleQWR293H0.jpg</thumbnail>
-<info>[COLOR black] [/COLOR]</info>
-<item>
-<title>[COLOR orange]Capítulo:[/COLOR]  152</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
-<thumbnail>https://image.tmdb.org/t/p/original/1lXlsrSmXLZINsMHPleQWR293H0.jpg</thumbnail>
-<info>[COLOR black] [/COLOR]</info>
-<item>
-<title>[COLOR orange]Capítulo:[/COLOR]  153</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
-<thumbnail>https://image.tmdb.org/t/p/original/1lXlsrSmXLZINsMHPleQWR293H0.jpg</thumbnail>
-<info>[COLOR black] [/COLOR]</info>
-<item>
-<title>[COLOR orange]Capítulo:[/COLOR]  154</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
-<thumbnail>https://image.tmdb.org/t/p/original/1lXlsrSmXLZINsMHPleQWR293H0.jpg</thumbnail>
-<info>[COLOR black] [/COLOR]</info>
-<item>
-<title>[COLOR orange]Capítulo:[/COLOR]  155</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
-<thumbnail>https://image.tmdb.org/t/p/original/1lXlsrSmXLZINsMHPleQWR293H0.jpg</thumbnail>
-<info>[COLOR black] [/COLOR]</info>
-<item>
-<title>[COLOR orange]Capítulo:[/COLOR]  156</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
-<thumbnail>https://image.tmdb.org/t/p/original/1lXlsrSmXLZINsMHPleQWR293H0.jpg</thumbnail>
-<info>[COLOR black] [/COLOR]</info>
-<item>
