@@ -15,18 +15,4 @@
 <thumbnail>https://image.tmdb.org/t/p/original/xQ4pJNDN3ht54zstgHdaB5bgtji.jpg</thumbnail>
 <info>[COLOR black] [/COLOR]</info>
 ___________________________________________________//_________________________________________________________
-<item>
-<title>[COLOR orange][B]Temporada 2[/B][/COLOR]</title>
-<link></link>
-<thumbnail></thumbnail>
-<info>[COLOR black] [/COLOR]</info>
-<item>
-<title>[COLOR orange]Iniciar[/COLOR] [COLOR aqua][B]720p[/B][/COLOR] BDRip [7,57 GB]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<info>[COLOR black] [/COLOR]</info>
-<item>
-<title>[COLOR orange]Iniciar[/COLOR] [COLOR aqua][B]720p[/B][/COLOR] BDRip [8,13 GB]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<info>[COLOR black] [/COLOR]</info>
+
