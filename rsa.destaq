@@ -3,7 +3,7 @@
 <name>True Blood</name> 
 <thumbnail>https://image.tmdb.org/t/p/original/pd7QCzz7jhGicFdRepUN3EvfZBp.jpg</thumbnail>    
 <fanart>https://image.tmdb.org/t/p/original/fHnxEuTV8oSA6uMKQdEbOBmAzn8.jpg</fanart>
-<info>[COLOR deepskyblue]Título Alternativo:[/COLOR] 
+<info>[COLOR deepskyblue]Título Alternativo:[/COLOR] True Blood
 [COLOR deepskyblue]Status:[/COLOR] [COLOR orange]Finalizada[/COLOR]
 [COLOR deepskyblue]Emissora:[/COLOR] HBO
 [COLOR deepskyblue]Ano de estréia:[/COLOR] 7 de setembro de 2008
@@ -15,6 +15,7 @@
 <title>[COLOR orange][B]Temporada 1[/B][/COLOR]</title>
 <link>https://raw</link>
 <thumbnail>https://image.tmdb.org/t/p/original/xQ4pJNDN3ht54zstgHdaB5bgtji.jpg</thumbnail>
+<info>[COLOR black] [/COLOR]</info>
 <item>
 <title>[COLOR orange]Iniciar[/COLOR] [COLOR aqua][B]720p[/B][/COLOR] BDRip [7,57 GB]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76AF63B0849E562A2C827FCDA3466C7CDF1C45BF&dn</link>
