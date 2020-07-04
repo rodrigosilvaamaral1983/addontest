@@ -1,5 +1,59 @@
 <channels></channels>
 <channel>
+<name>Coringa [COLOR aqua](2019)[/COLOR]</name> 
+<thumbnail>https://image.tmdb.org/t/p/original/rOYDI5EqtKrnr0IX271V7daRdaH.jpg</thumbnail>    
+<fanart>https://image.tmdb.org/t/p/original/r0kZNywAeN6Ar75rxDqLlTP5RiJ.jpg</fanart>
+<info>[COLOR deepskyblue]Título Original:[/COLOR] Joker
+[COLOR deepskyblue]Dirigido por:[/COLOR] Todd Phillips
+[COLOR deepskyblue]Estréia:[/COLOR] 2 de outubro de 2019
+[COLOR deepskyblue]Duração:[/COLOR] 2h 2m
+[COLOR deepskyblue]Áudio:[/COLOR] [COLOR gold]Português & Inglês[/COLOR]
+[COLOR deepskyblue][B]Sinopse[/B]:[/COLOR] Arthur Fleck trabalha como palhaço para uma agência de talentos e, toda semana, precisa comparecer a uma agente social, devido aos seus conhecidos problemas mentais. Após ser demitido, Fleck reage mal à gozação de três homens em pleno metrô e os mata. Os assassinatos iniciam um movimento popular contra a elite de Gotham City, da qual Thomas Wayne é seu maior representante.
+</info>
+<item>
+<title>[COLOR orange]Iniciar[/COLOR] [COLOR aqua][B]720p[/B][/COLOR] BDRip [1,12 GB]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AED5B193D7713021926EEB7C42C5F4BB817440ED&dn</link>
+<thumbnail>https://image.tmdb.org/t/p/original/rOYDI5EqtKrnr0IX271V7daRdaH.jpg</thumbnail>
+<info>[COLOR black] [/COLOR]</info>
+<item>
+<title>[COLOR orange]Iniciar[/COLOR] [COLOR aqua][B]720p[/B][/COLOR] BDRip [1,39 GB]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3D9F5CFC96A280A460A52B549631C8A6D1969A95&dn</link>
+<thumbnail>https://image.tmdb.org/t/p/original/rOYDI5EqtKrnr0IX271V7daRdaH.jpg</thumbnail>
+<info>[COLOR black] [/COLOR]</info>
+<item>
+<title>[COLOR orange]Iniciar[/COLOR] [COLOR aqua][B]720p[/B][/COLOR] BDRip [1,42 GB]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2947594C8357FC4B89518BD90AA1E3DE7C5B12E6&dn</link>
+<thumbnail>https://image.tmdb.org/t/p/original/rOYDI5EqtKrnr0IX271V7daRdaH.jpg/thumbnail>
+<info>[COLOR black] [/COLOR]</info>
+<item>
+<title>[COLOR orange]Iniciar[/COLOR] [COLOR aqua][B]720p[/B][/COLOR] BDRip [1,79 GB]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5835F03ACFB597A3221FE5B10B2385E93FF2D194&dn</link>
+<thumbnail>https://image.tmdb.org/t/p/original/rOYDI5EqtKrnr0IX271V7daRdaH.jpg</thumbnail>
+<info>[COLOR black] [/COLOR]</info>
+<item>
+<item>
+<title>[COLOR orange]Iniciar[/COLOR] [COLOR lime][B]1080p[/B][/COLOR] BDRip [1,97 GB]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1F8F30475FA006B6E03E1167D325941A8321972E&dn</link>
+<thumbnail>https://image.tmdb.org/t/p/original/rOYDI5EqtKrnr0IX271V7daRdaH.jpg</thumbnail>
+<info>[COLOR black] [/COLOR]</info>
+<item>
+<title>[COLOR orange]Iniciar[/COLOR] [COLOR lime][B]1080p[/B][/COLOR] BDRip [2,24 GB]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8D8281BEE874ED854950D62A1EAE12B0DD2B8934&dn</link>
+<thumbnail>https://image.tmdb.org/t/p/original/rOYDI5EqtKrnr0IX271V7daRdaH.jpg</thumbnail>
+<info>[COLOR black] [/COLOR]</info>
+<item>
+<title>[COLOR orange]Iniciar[/COLOR] [COLOR lime][B]1080p[/B][/COLOR] BDRip [2,67 GB]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:54206B4E24527D88302048335395E053D0BA73DC&dn</link>
+<thumbnail>https://image.tmdb.org/t/p/original/rOYDI5EqtKrnr0IX271V7daRdaH.jpg</thumbnail>
+<info>[COLOR black] [/COLOR]</info>
+<item>
+<title>[COLOR orange]Iniciar[/COLOR] [COLOR mediumslateblue][B]4k[/B][/COLOR] BDRip [13,2 GB]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:236F0860E2CB91236B64109F061B2E1B80C35812&dn</link>
+<thumbnail>https://image.tmdb.org/t/p/original/rOYDI5EqtKrnr0IX271V7daRdaH.jpg</thumbnail>
+<info>[COLOR black] [/COLOR]</info>
+--------------------------------------------------------------------John Wick 2: Um Novo Dia para Matar (2017)------------------------------------------------------------
+<channels></channels>
+<channel>
 <name>John Wick 2: Um Novo Dia para Matar [COLOR aqua](2017)[/COLOR]</name> 
 <thumbnail>https://image.tmdb.org/t/p/original/k36UzsRQaY6E055cdYPdYbyREer.jpg</thumbnail>    
 <fanart>https://image.tmdb.org/t/p/original/2Su8VR1SfnMBK9gAlEaajYyoxO6.jpg</fanart>
