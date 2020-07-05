@@ -1,4 +1,37 @@
-____________________________________________________________________________Coringa (2019)________________________________________________________________________
+______________________________________________________________________Guerra dos Monstros (2015)_____________________________________________________________________
+<channels></channels>
+<channel>
+<name>Guerra dos Monstros [COLOR aqua](2015)[/COLOR]</name> 
+<thumbnail>https://image.tmdb.org/t/p/original/dQHHyINSbjOmM6gbikOmWZlaQoX.jpg</thumbnail>    
+<fanart>https://image.tmdb.org/t/p/original/frTXhzfhoVPVwPJKJx40svhmPeW.jpg</fanart>
+<info>[COLOR deepskyblue]Título Original:[/COLOR] Freaks of Nature
+[COLOR deepskyblue]Dirigido por:[/COLOR] Robbie Pickering
+[COLOR deepskyblue]Estréia:[/COLOR] 30 de outubro de 2015
+[COLOR deepskyblue]Duração:[/COLOR] 1h 32m
+[COLOR deepskyblue]Áudio:[/COLOR] [COLOR gold]Português & Inglês[/COLOR]
+[COLOR deepskyblue]Sinopse:[/COLOR] Quando o planeta Terra é invadido por uma raça alienígena, um grupo de adolescentes de uma pequena cidade norte-americana se reúne para combater os tais seres extraterrestres. A grande novidade é que a tal turma de jovens é formada por humanos, vampiros e zumbis.
+</info>
+<item>
+<title>[COLOR orange]Iniciar[/COLOR] [COLOR aqua][B]720p[/B][/COLOR] BDRip [930 MB]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2F25065DDB0814E89AA08678A6839A8DF0E13610&dn</link>
+<thumbnail>https://image.tmdb.org/t/p/original/dQHHyINSbjOmM6gbikOmWZlaQoX.jpg</thumbnail>
+<info>[COLOR black] [/COLOR]</info>
+<item>
+<title>[COLOR orange]Iniciar[/COLOR] [COLOR aqua][B]720p[/B][/COLOR] BDRip [1,08 GB]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5PJ3TSERVZP5NHHSAG5XIQBUNG3RXODP&dn</link>
+<thumbnail>https://image.tmdb.org/t/p/original/dQHHyINSbjOmM6gbikOmWZlaQoX.jpg</thumbnail>
+<info>[COLOR black] [/COLOR]</info>
+<title>[COLOR orange]Iniciar[/COLOR] [COLOR lime][B]1080p[/B][/COLOR] BDRip [1,40 GB]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C345113CEE79C7B8D25FA966AF36389FD4AAE1A1&dn</link>
+<thumbnail>https://image.tmdb.org/t/p/original/dQHHyINSbjOmM6gbikOmWZlaQoX.jpg</thumbnail>
+<info>[COLOR black] [/COLOR]</info>
+<item>
+<title>[COLOR orange]Iniciar[/COLOR] [COLOR lime][B]1080p[/B][/COLOR] BDRip [1,82 GB]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CH3SJNTWJJYTHKKGYF6XQVM5JXXKBFMK&dn</link>
+<thumbnail>https://image.tmdb.org/t/p/original/dQHHyINSbjOmM6gbikOmWZlaQoX.jpg</thumbnail>
+<info>[COLOR black] [/COLOR]</info>
+<item>
+___________________________________________________________________________Coringa (2019)________________________________________________________________________
 <channels></channels>
 <channel>
 <name>Coringa [COLOR aqua](2019)[/COLOR]</name> 
