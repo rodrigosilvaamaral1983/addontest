@@ -6,7 +6,7 @@
 <info>[COLOR deepskyblue]Título Original:[/COLOR] Bloodshot
 [COLOR deepskyblue]Dirigido por:[/COLOR] Dave Wilson
 [COLOR deepskyblue]Estréia:[/COLOR] 5 de março de 2020
-[COLOR yelow]IMDb:[/COLOR] 5,7/10
+[COLOR yellow]IMDb:[/COLOR] 5,7/10
 [COLOR deepskyblue]Duração:[/COLOR] 1h 49m
 [COLOR deepskyblue]Gênero:[/COLOR] Ação, Drama, Ficção
 [COLOR deepskyblue]Áudio:[/COLOR] [COLOR gold]Português & Inglês[/COLOR]
@@ -18,6 +18,7 @@
 <link>plugin://plugin.video.youtube/play?uri=6pcg36Kacmw</link>
 <thumbnail>https://image.tmdb.org/t/p/original/5Z7AJiQhocA20MkI5JXZ6OjTxEW.jpg</thumbnail>
 <info>[COLOR black] [/COLOR]</info>
+<item>
 <title>[COLOR orange]Iniciar[/COLOR] [COLOR aqua][B]720p[/B][/COLOR] BDRip [1,27 GB]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5B36451734AF7F8D1AF6DDF3D959AD53D723D618&dn</link>
 <thumbnail>https://image.tmdb.org/t/p/original/5Z7AJiQhocA20MkI5JXZ6OjTxEW.jpg</thumbnail>
