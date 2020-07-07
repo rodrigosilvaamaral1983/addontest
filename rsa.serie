@@ -2,7 +2,7 @@
 <channels>
 
 <channel>
-<name>[B]Os Originais[/B]</name>
+<name>Os Originais</name>
 <thumbnail>https://image.tmdb.org/t/p/original/wPoB28fp0oxYWxmOjEHggB8infk.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/rodrigosilvaamaral1983/projt2020g/master/rsa.osoriginais</externallink>
 <fanart>https://image.tmdb.org/t/p/original/jbCxOhEa3w3q1bI68IL4bePIqar.jpg</fanart>
@@ -19,7 +19,7 @@
 <channels>
 
 <channel>
-<name>[B]True Blood[/B]</name>
+<name>True Blood</name>
 <thumbnail>https://image.tmdb.org/t/p/original/pd7QCzz7jhGicFdRepUN3EvfZBp.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/rodrigosilvaamaral1983/projt2020g/master/rsa.trueblood</externallink>
 <fanart>https://image.tmdb.org/t/p/original/fHnxEuTV8oSA6uMKQdEbOBmAzn8.jpg</fanart>
@@ -36,7 +36,7 @@
 <channels>
 
 <channel>
-<name>[B]The Walking Dead[/B]</name>
+<name>The Walking Dead</name>
 <thumbnail>https://image.tmdb.org/t/p/original/fJKucbYtIzWwglqtRVOOH8i60Ug.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/rodrigosilvaamaral1983/projt2020g/master/rsa.thewalkingdead</externallink>
 <fanart>https://image.tmdb.org/t/p/original/w75xv0Wm3FQkFiLFM7AHxobLEPw.jpg</fanart>
