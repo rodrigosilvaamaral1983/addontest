@@ -8,10 +8,27 @@
 <info>[COLOR deepskyblue]Título Alternativo:[/COLOR] Falling Skies
 [COLOR deepskyblue]Status:[/COLOR] [COLOR orange]Finalizada[/COLOR]           
 [COLOR deepskyblue]Emissora:[/COLOR] TNT
-[COLOR deepskyblue]Ano de estréia:[/COLOR] 19 de junho de [COLOR deepskyblue]2011[/COLOR]
+[COLOR deepskyblue]Data de estréia:[/COLOR] 19 de junho de [COLOR deepskyblue]2011[/COLOR]
 [COLOR deepskyblue]Temporadas:[/COLOR] 5
 [COLOR deepskyblue]Gêneros:[/COLOR] Ação e aventura,  Ficção científica e fantasia
 [COLOR deepskyblue]Sinopse:[/COLOR] Falling Skies começa em meio a um ataque alienígena caótico de que deixou a maior parte do mundo completamente incapacitado. Nos seis meses desde a invasão inicial, os poucos sobreviventes uniram-se fora das grandes cidades para começar a difícil tarefa de combater os invasores. Cada dia é um teste de sobrevivência como soldados e cidadãos, que trabalham para proteger as pessoas sob seus cuidados, ao mesmo tempo que uma campanha de repressão acontece contra a força alienígena ocupante.
+</info>
+</channel>
+
+<channels>
+
+<channel>
+<name>iZombie</name>
+<thumbnail>https://image.tmdb.org/t/p/original/ffdsptyUsVaAD0oH9BXSqiKsuhP.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/rodrigosilvaamaral1983/projt2020g/master/rsa.iZombie</externallink>
+<fanart>https://image.tmdb.org/t/p/original/y9QY2zxXekYsaB2zw35JQIxezxD.jpg</fanart>
+<info>[COLOR deepskyblue]Título Alternativo:[/COLOR] iZombie
+[COLOR deepskyblue]Status:[/COLOR] [COLOR orange]Finalizada[/COLOR]        
+[COLOR deepskyblue]Emissora:[/COLOR] The CW
+[COLOR deepskyblue]Data de estréia:[/COLOR] 17 de março de [COLOR deepskyblue]2015[/COLOR]
+[COLOR deepskyblue]Temporadas:[/COLOR] 5
+[COLOR deepskyblue]Gêneros:[/COLOR] Terror, Drama, Crime, Ficção científica e fantasia
+[COLOR deepskyblue]Sinopse:[/COLOR] A série acompanha Olivia Moore, uma residente médica disciplinada que tem sua vida completamente mapeada, até comparecer a uma festa que, inesperadamente, se transforma em um banquete de zumbis. Agora, fazendo parte do grupo dos mortos-vivos, Liv faz o seu melhor para se misturar e parecer o mais humana possível. Ela afirma ser gótica e, como não podia deixar de ser, se comporta como uma pessoa diferente, o que traz complicações para suas relações interpessoais — incluindo seu ex-noivo, Major, sua mãe Eva e sua melhor amiga e colega de quarto, Peyton. Para se alimentar, a garota arruma um trabalho no necrotério de Seattle, para que possa comer cérebros dos corpos que passam por ali. Apesar de ser cuidadosa, o seu excêntrico chefe, Dr. Ravi Chakrabarti, descobre seu segredo e fica empolgado com as possibilidades científicas. Mais tarde, ele ajuda Liv a procurar Blaine, o zumbi responsável por transformá-la. Logo, Liv percebe que consegue ver uma parte das memórias das pessoas ao comer seus cérebros, o que a leva a ter visões das mortes das pessoas. Para a surpresa tanto do Dr. Ravi quanto do detetive Clive Babineaux, ela dá detalhes das cenas dos crimes e motivações que não pode explicar. Fingindo ser uma médium, ela começa a trabalhar com o detetive. A série é baseada nas HQs de mesmo nome da Vertigo.
 </info>
 </channel>
 
@@ -25,7 +42,7 @@
 <info>[COLOR deepskyblue]Título Alternativo:[/COLOR] The Originals
 [COLOR deepskyblue]Status:[/COLOR] [COLOR orange]Em Andamento[/COLOR]           
 [COLOR deepskyblue]Emissora:[/COLOR] The CW
-[COLOR deepskyblue]Ano de estréia:[/COLOR] 3 de outubro de [COLOR deepskyblue]2013[/COLOR]
+[COLOR deepskyblue]Data de estréia:[/COLOR] 3 de outubro de [COLOR deepskyblue]2013[/COLOR]
 [COLOR deepskyblue]Temporadas:[/COLOR] 5
 [COLOR deepskyblue]Gêneros:[/COLOR] Sci-Fi & Fantasy, Drama, Mistério
 [COLOR deepskyblue]Sinopse:[/COLOR] Klaus é um vampiro disposto a retomar Nova Orleans, cidade construída por sua família séculos atrás. Na missão, ele aprende mais sobre seu passado enquanto alianças são formadas.
@@ -42,7 +59,7 @@
 <info>[COLOR deepskyblue]Título Alternativo:[/COLOR] True Blood
 [COLOR deepskyblue]Status:[/COLOR] [COLOR orange]Finalizada[/COLOR]
 [COLOR deepskyblue]Emissora:[/COLOR] HBO
-[COLOR deepskyblue]Ano de estréia:[/COLOR] 7 de setembro de [COLOR deepskyblue]2008[/COLOR]
+[COLOR deepskyblue]Data de estréia:[/COLOR] 7 de setembro de [COLOR deepskyblue]2008[/COLOR]
 [COLOR deepskyblue]Temporadas:[/COLOR] 7
 [COLOR deepskyblue]Gêneros:[/COLOR] Drama, Ficção científica e fantasia
 [COLOR deepskyblue]Sinopse:[/COLOR] Numa nova era de evolução científica, os vampiros conseguiram deixar de ser monstros lendários para se tornarem cidadãos comuns. Essa mudança, que aconteceu do dia para a noite, deve-se a cientistas japoneses, que inventaram um sangue sintético, fazendo com que os humanos deixassem de ser o seu prato principal. Já os humanos ainda não se sentem totalmente seguros convivendo lado a lado com toda a legião de vampiros que está saindo de seus caixões. Ao redor do mundo, cada um escolheu o seu lado a favor ou contra essa revolução, mas numa pequena cidade de Lousiana, as pessoas ainda estão formando a sua opinião. Sookie, garçonete de um pequena lanchonete, tem o poder de ouvir os pensamentos das pessoas e não vê problemas na integração desses novos membros à sociedade, principalmente quando se trata de Bill Compton, um atraente vampiro de 173 anos de idade. Mas ela pode vir a mudar de opinião, à medida que desvenda os mistérios que envolvem a chegada de Bill em sua cidade. Mergulhe no mundo obscuro desse novo drama envolvente, que saiu das mãos do mesmo criador de "Six Feet Under", Alan Ball. Uma nova sociedade está se formando e cada um precisa escolher a sua posição dentro dela.
@@ -59,7 +76,7 @@
 <info>[COLOR deepskyblue]Título Alternativo:[/COLOR] The Walking Dead
 [COLOR deepskyblue]Status:[/COLOR] [COLOR orange]Em Andamento[/COLOR]
 [COLOR deepskyblue]Emissora:[/COLOR] AMC
-[COLOR deepskyblue]Ano de estréia:[/COLOR] 31 de outubro de [COLOR deepskyblue]2010[/COLOR]
+[COLOR deepskyblue]Data de estréia:[/COLOR] 31 de outubro de [COLOR deepskyblue]2010[/COLOR]
 [COLOR deepskyblue]Temporadas:[/COLOR] 10
 [COLOR deepskyblue]Gêneros:[/COLOR] Ação e aventura, Drama, Ficção científica e fantasia
 [COLOR deepskyblue]Sinopse:[/COLOR] Um apocalipse provoca uma infestação de zumbis na cidade de Cynthiana, em Kentucky, nos Estados Unidos, e o oficial de polícia Rick Grimes (Andrew Lincoln) descobre que os mortos-vivos estão se propagando progressivamente. Ele decide unir-se aos homens e mulheres sobreviventes para que tenham mais força para combater o fenômeno que os atinge. O grupo percorre diferentes lugares em busca de soluções para o problema.
@@ -76,7 +93,7 @@
 <info>[COLOR deepskyblue]Título Alternativo:[/COLOR] Z Nation
 [COLOR deepskyblue]Status:[/COLOR]  [COLOR orange]Cancelado[/COLOR]
 [COLOR deepskyblue]Emissora:[/COLOR] SYFY
-[COLOR deepskyblue]Ano de estréia:[/COLOR] 12 de setembro de 2014
+[COLOR deepskyblue]Data de estréia:[/COLOR] 12 de setembro de [COLOR deepskyblue]2014[/COLOR]
 [COLOR deepskyblue]Temporadas:[/COLOR] 5
 [COLOR deepskyblue]Gêneros:[/COLOR] Mistério, Action & Adventure, Drama
 [COLOR deepskyblue]Sinopse:[/COLOR] Um grupo embarca em uma perigosa jornada pelo país para levar o único sobrevivente de uma epidemia zumbi a um centro de pesquisas.
