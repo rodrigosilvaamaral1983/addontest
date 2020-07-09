@@ -58,11 +58,6 @@ ________________________________________________________________Resident Evil 5:
 <info>[COLOR black] [/COLOR]</info>
 <item>
 <item>
-<title>[COLOR orange][B]PLAY[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title> 7,15GB
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:62c5b79130a8c2287b49f259a847af646a919c99</link>
-<thumbnail>https://image.tmdb.org/t/p/original/8Hd7OTdX1Q3pccZn2TUsU9isJpz.jpg</thumbnail>
-<info>[COLOR black] [/COLOR]</info>
-<item>
 <title>[COLOR orange][B]PLAY[/B][/COLOR] [COLOR red][B]3D[/B][/COLOR]</title> 1,59GB
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D0FA4C289B0B3DAFC6E865823CC9D856461A526D&dn</link>
 <thumbnail>https://image.tmdb.org/t/p/original/8Hd7OTdX1Q3pccZn2TUsU9isJpz.jpg</thumbnail>
