@@ -1,3 +1,27 @@
+<channels></channels>
+<channel>
+<name>Anjos e Demônios</name> 
+<thumbnail>https://image.tmdb.org/t/p/original/6Nl3kVgNOWuOSwf0TwseVcR1gLj.jpg</thumbnail>    
+<fanart>https://image.tmdb.org/t/p/original/dsdjGDWxdm9wbDHY52a7qpRqPHt.jpg</fanart>
+<info>[COLOR deepskyblue]Título Original:[/COLOR] Angels & Demons
+[COLOR deepskyblue]Dirigido por:[/COLOR] Ron Howard
+[COLOR deepskyblue]Estréia:[/COLOR] 5 de março de [COLOR deepskyblue]2009[/COLOR]
+[COLOR yellow]IMDb:[/COLOR] 6,7/10
+[COLOR deepskyblue]Duração:[/COLOR] 2h 18m
+[COLOR deepskyblue]Áudio:[/COLOR] [COLOR gold]Português & Inglês[/COLOR]
+[COLOR deepskyblue]Sinopse:[/COLOR] O professor de simbologia Robert Langdon (Tom Hanks), depois de decifrar o código DaVinci, é chamado pelo Vaticano para investigar o misterioso desaparecimento de quatro cardeais. Agora, além de enfrentar a resistência da própria igreja em ajudá-lo nos detalhes de sua investigação, Langdon precisa decifrar charadas numa verdadeira corrida contra o tempo porque a sociedade secreta por trás do crime em andamento tem planos de explodir o Vaticano.
+</info>
+<item>
+<title>[COLOR orange]PLAY[/COLOR] [COLOR aqua][B]720p[/B][/COLOR]</title> 974
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cb2ae5a1fc0b09650acb6c398527996ea5878f69&dn</link>
+<thumbnail>https://image.tmdb.org/t/p/original/6Nl3kVgNOWuOSwf0TwseVcR1gLj.jpg</thumbnail>
+<info>[COLOR black] [/COLOR]</info>
+<item>
+<title>[COLOR orange][B]PLAY[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title> 2,38
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7A87BCD33BC8931549885424D3DCA43E3D4E7AA7&dn</link>
+<thumbnail>https://image.tmdb.org/t/p/original/6Nl3kVgNOWuOSwf0TwseVcR1gLj.jpg</thumbnail>
+<info>[COLOR black] [/COLOR]</info>
+<item>
 _____________________________________________________365 Dias (2020)________________________________________________________
 <channels></channels>
 <channel>
