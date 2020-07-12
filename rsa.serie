@@ -1,6 +1,23 @@
 <channels>
 
 <channel>
+<name>Dark</name>
+<thumbnail>https://image.tmdb.org/t/p/original/taRoBxOBT4V1iNtqqaH9XYsz36A.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/rodrigosilvaamaral1983/projt2020g/master/rsa.Dark</externallink>
+<fanart>https://image.tmdb.org/t/p/original/75HgaphatW0PDI3XIHQWZUpbhn6.jpg</fanart>
+<info>[COLOR deepskyblue]Título Alternativo:[/COLOR] Dark
+[COLOR deepskyblue]Status:[/COLOR] [COLOR orange]Finalizada[/COLOR]        
+[COLOR deepskyblue]Emissora:[/COLOR] NETFLIX
+[COLOR deepskyblue]Data de estréia:[/COLOR] [COLOR deepskyblue]2017[/COLOR]
+[COLOR deepskyblue]Temporadas:[/COLOR] 3
+[COLOR deepskyblue]Gêneros:[/COLOR] Sci-Fi & Fantasy, Drama, Mistério, Crime
+[COLOR deepskyblue]Sinopse:[/COLOR] Quatro famílias iniciam uma desesperada busca por respostas quando uma criança desaparece e um complexo mistério envolvendo três gerações começa a se revelar.
+</info>
+</channel>
+
+<channels>
+
+<channel>
 <name>Flash</name>
 <thumbnail>https://artworks.thetvdb.com/banners/posters/279121-5.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/rodrigosilvaamaral1983/projt2020g/master/rsa.flash</externallink>
