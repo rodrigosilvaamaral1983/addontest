@@ -1,11 +1,9 @@
-<item>
-<title>[COLOR orange][B]Temporada 1[/B][/COLOR]</title>
-<link>https://raw</link>
+<channels></channels>
+<channel>
+<name>[COLOR orange][B]Temporada 1[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/kTezyobPNbLYzltZ2x9e5Gowvt5.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/w75xv0Wm3FQkFiLFM7AHxobLEPw.jpg</fanart>
 <info>Um apocalipse provoca uma infestação de zumbis na cidade de Cynthiana, em Kentucky, nos Estados Unidos, e o oficial de polícia Rick Grimes (Andrew Lincoln) descobre que os mortos-vivos estão se propagando progressivamente. Ele decide unir-se aos homens e mulheres sobreviventes para que tenham mais força para combater o fenômeno que os atinge. O grupo percorre diferentes lugares em busca de soluções para o problema.</info>
-<item>
-
 <item>
 <title>[COLOR orange]PLAY[/COLOR] [COLOR aqua][B]720p[/B][/COLOR]</title> 2,36
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c200a29db264899cc302bc408ebfd0f672720c95&dn</link>
