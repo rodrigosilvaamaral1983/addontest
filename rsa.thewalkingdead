@@ -57,7 +57,7 @@ ______________________________________________________________________//________
 <info>[COLOR black] [/COLOR]</info>
 
 <item>
-<title>[COLOR orange][B]PLAY[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title>
+<title>[COLOR orange][B]PLAY[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title> 41,8
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4185d312c14d37ea55db820c2d0c1362b7625678&dn</link>
 <thumbnail>https://image.tmdb.org/t/p/original/kkPh9VxdP8kiWY5esINrDlqapoB.jpg</thumbnail>
 <info>[COLOR black] [/COLOR]</info>
