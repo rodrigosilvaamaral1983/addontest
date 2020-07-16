@@ -1,3 +1,77 @@
+<channels></channels>
+<channel>
+<name>Doutor Estranho</name> 
+<thumbnail>https://image.tmdb.org/t/p/original/j0E8pZPKGxnQKiBiIfr4E4Ys2EY.jpg</thumbnail>    
+<fanart>https://image.tmdb.org/t/p/original/wOIRY26QKjGAxAkBfGSVdbFESmR.jpg</fanart>
+<info>[COLOR deepskyblue]Título Original:[/COLOR] Doctor Strange
+[COLOR deepskyblue]Dirigido por:[/COLOR] Scott Derrickson
+[COLOR deepskyblue]Estréia:[/COLOR] 25 de outubro de [COLOR deepskyblue]2016[/COLOR]
+[COLOR yellow]IMDb:[/COLOR] 7,5/10
+[COLOR deepskyblue]Duração:[/COLOR] 1h 55m
+[COLOR deepskyblue]Áudio:[/COLOR] [COLOR gold]Português & Inglês[/COLOR]
+[COLOR deepskyblue]Sinopse:[/COLOR] Da Marvel Studios vem “Doctor Strange”, a história do mundialmente famoso neurocirurgião Dr. Stephen Strange, cuja vida muda para sempre depois de um terrível acidente de carro, que o rouba do uso de suas mãos. Quando a medicina tradicional o falha, ele é forçado a procurar por cura e esperança, em um lugar improvável - um enclave misterioso conhecido como Kamar-Taj. Ele rapidamente descobre que isso não é apenas um centro de cura, mas também a linha de frente de uma batalha contra as forças ocultas invisíveis empenhadas em destruir nossa realidade. Em pouco tempo, Strange - armado com poderes mágicos recém-adquiridos - é forçado a escolher se quer retornar à sua vida de fortuna e status ou deixar tudo para trás para defender o mundo como o mais poderoso feiticeiro existente.
+</info>
+<item>
+<title>[COLOR orange]PLAY[/COLOR] [COLOR aqua][B]720p[/B][/COLOR]</title> 
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://image.tmdb.org/t/p/original/j0E8pZPKGxnQKiBiIfr4E4Ys2EY.jpg</thumbnail>
+<info>[COLOR black] [/COLOR]</info>
+<item>
+<title>[COLOR orange]PLAY[/COLOR] [COLOR aqua][B]720p[/B][/COLOR]</title> 1014 MB
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:173f8a6679c5447783f63c22cd7736b06b02d0c5</link>
+<thumbnail>https://image.tmdb.org/t/p/original/j0E8pZPKGxnQKiBiIfr4E4Ys2EY.jpg</thumbnail>
+<info>[COLOR black] [/COLOR]</info>
+<item>
+<title>[COLOR orange]PLAY[/COLOR] [COLOR aqua][B]720p[/B][/COLOR]</title> 1,15
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:767763839037716d648101a54743ab1d97fc5ad5</link>
+<thumbnail>https://image.tmdb.org/t/p/original/j0E8pZPKGxnQKiBiIfr4E4Ys2EY.jpg</thumbnail>
+<info>[COLOR black] [/COLOR]</info>
+<item>
+<title>[COLOR orange]PLAY[/COLOR] [COLOR aqua][B]720p[/B][/COLOR]</title> 1,34
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5dea69e766c099a0daf652e1f003908491a3723c</link>
+<thumbnail>https://image.tmdb.org/t/p/original/j0E8pZPKGxnQKiBiIfr4E4Ys2EY.jpg</thumbnail>
+<info>[COLOR black] [/COLOR]</info>
+<item>
+<item>
+<title>[COLOR orange]PLAY[/COLOR] [COLOR aqua][B]720p[/B][/COLOR]</title> 1,40
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ca2f488bf0c5711f361e297f2c5ce6997b0ab175</link>
+<thumbnail>https://image.tmdb.org/t/p/original/j0E8pZPKGxnQKiBiIfr4E4Ys2EY.jpg</thumbnail>
+<info>[COLOR black] [/COLOR]</info>
+<item>
+<title>[COLOR orange][B]PLAY[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title> 2,10
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d2cf1dae8043627202ab2bab5bd93e271a6245f1</link>
+<thumbnail>https://image.tmdb.org/t/p/original/j0E8pZPKGxnQKiBiIfr4E4Ys2EY.jpg</thumbnail>
+<info>[COLOR black] [/COLOR]</info>
+<item>
+<title>[COLOR orange][B]PLAY[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title> 2.22
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:35ad008c51d4f540d47af8d5ef1ebd270bb03ae2</link>
+<thumbnail>https://image.tmdb.org/t/p/original/j0E8pZPKGxnQKiBiIfr4E4Ys2EY.jpg</thumbnail>
+<info>[COLOR black] [/COLOR]</info>
+<item>
+<title>[COLOR orange][B]PLAY[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title> 2,35
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c978416628acd45a6cd078dd40c0cf20b7c359ac</link>
+<thumbnail>https://image.tmdb.org/t/p/original/j0E8pZPKGxnQKiBiIfr4E4Ys2EY.jpg</thumbnail>
+<info>[COLOR black] [/COLOR]</info>
+<item>
+<title>[COLOR orange][B]PLAY[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title> 26,5
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8ea020a3efc22847422837abb39afc38a3355e57</link>
+<thumbnail>https://image.tmdb.org/t/p/original/j0E8pZPKGxnQKiBiIfr4E4Ys2EY.jpg</thumbnail>
+<info>[COLOR black] [/COLOR]</info>
+<item>
+<title>[COLOR orange][B]PLAY[/B][/COLOR] [COLOR red][B]3D[/B][/COLOR]</title> 2,45
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ee93d74446bb4acb048c4d9e9432c37324581298</link>
+<thumbnail>https://image.tmdb.org/t/p/original/j0E8pZPKGxnQKiBiIfr4E4Ys2EY.jpg</thumbnail>
+<info>[COLOR black] [/COLOR]</info>
+<item>
+<title>[COLOR orange][B]PLAY[/B][/COLOR] [COLOR red][B]3D[/B][/COLOR]</title> 2,80
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f82197eae788e972b8a9732a95a84a4ff4866693</link>
+<thumbnail>https://image.tmdb.org/t/p/original/j0E8pZPKGxnQKiBiIfr4E4Ys2EY.jpg</thumbnail>
+<info>[COLOR black] [/COLOR]</info>
+<item>
+<title>[COLOR orange][B]PLAY[/B][/COLOR] [COLOR mediumslateblue][B]4k[/B][/COLOR]</title> 41,4
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1ecf7532b77da78c699414d6ff28855ca7197a0e</link>
+<thumbnail>https://image.tmdb.org/t/p/original/j0E8pZPKGxnQKiBiIfr4E4Ys2EY.jpg</thumbnail>
+<info>[COLOR black] [/COLOR]</info>
 __________________________________________________________Incontrolável (2010)___________________________________________________________________
 <channels></channels>
 <channel>
@@ -13,7 +87,7 @@ __________________________________________________________Incontrolável (2010)_
 [COLOR deepskyblue]Sinopse:[/COLOR] Uma composição carregada de produtos altamente tóxicos está desgovernada e o perigo é iminente. Um condutor (Chris Pine) e um maquinista experiente (Denzel Washington) precisam evitar que uma pequena cidade em seu caminho seja destruída. A única saída é botar em prática uma operação muito arriscada, mas o tempo corre contra eles.
 </info>
 <item>
-<title>[COLOR orange][B]PLAY[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title> 
+<title>[COLOR orange][B]PLAY[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title> 1,54
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fb088c5a1bdbaac22ae251ca4d12d1dd400554c1&dn</link>
 <thumbnail>https://image.tmdb.org/t/p/original/vGuBgnWrWh4ZLj2VcG9OBCYxple.jpg</thumbnail>
 <info>[COLOR black] [/COLOR]</info>
