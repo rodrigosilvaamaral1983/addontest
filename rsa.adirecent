@@ -1,3 +1,33 @@
+___________________________________________________________A Velha Guarda (2020)______________________________________
+<channels></channels>
+<channel>
+<name>A Velha Guarda</name> 
+<thumbnail>https://image.tmdb.org/t/p/original/pZOK1L88L7KoM5iNQVqNomdhjto.jpg</thumbnail>    
+<fanart>https://image.tmdb.org/t/p/original/jwTzZJR8MdnBoG30R1navwTMenw.jpg</fanart>
+<info>[COLOR deepskyblue]Título Original:[/COLOR] The Old Guard
+[COLOR deepskyblue]Dirigido por:[/COLOR] Gina Prince-Bythewood
+[COLOR deepskyblue]Estréia:[/COLOR] 5 de março de [COLOR deepskyblue]2020[/COLOR]
+[COLOR yellow]IMDb:[/COLOR] 7,3/10
+[COLOR deepskyblue]Duração:[/COLOR] 2h 4m
+[COLOR deepskyblue]Áudio:[/COLOR] [COLOR gold]Português & Inglês[/COLOR]
+[COLOR deepskyblue]Sinopse:[/COLOR] Quatro guerreiros com o dom da imortalidade protegem a humanidade há séculos. Mas seus misteriosos poderes viram alvo de ataque quando outra imortal entra em cena.
+</info>
+<item>
+<title>[COLOR orange]PLAY[/COLOR] [COLOR aqua][B]720p[/B][/COLOR]</title> 
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f87f672f7af401cd72910ae5f482e3ba88612334&dn</link>
+<thumbnail>https://image.tmdb.org/t/p/original/pZOK1L88L7KoM5iNQVqNomdhjto.jpg</thumbnail>
+<info>[COLOR black] [/COLOR]</info>
+<item>
+<title>[COLOR orange][B]PLAY[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title> 
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b275617ec623cd4aa09b714407f8d1bc2e8fbbd5&dn</link>
+<thumbnail>https://image.tmdb.org/t/p/original/pZOK1L88L7KoM5iNQVqNomdhjto.jpg</thumbnail>
+<info>[COLOR black] [/COLOR]</info>
+<item>
+<title>[COLOR orange][B]PLAY[/B][/COLOR] [COLOR mediumslateblue][B]4k[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://image.tmdb.org/t/p/original/pZOK1L88L7KoM5iNQVqNomdhjto.jpg</thumbnail>
+<info>[COLOR black] [/COLOR]</info>
+___________________________________________________________________Doutor Estranho (2016)____________________________________________________________________________________
 <channels></channels>
 <channel>
 <name>Doutor Estranho</name> 
