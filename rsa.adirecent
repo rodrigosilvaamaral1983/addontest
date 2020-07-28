@@ -56,6 +56,11 @@ ___________________________________________________________A Velha Guarda (2020)
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b275617ec623cd4aa09b714407f8d1bc2e8fbbd5&dn</link>
 <thumbnail>https://image.tmdb.org/t/p/original/pZOK1L88L7KoM5iNQVqNomdhjto.jpg</thumbnail>
 <info>[COLOR black] [/COLOR]</info>
+<item>
+<title>[COLOR orange][B]PLAY[/B][/COLOR] [COLOR mediumslateblue][B]4k[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://image.tmdb.org/t/p/original/pZOK1L88L7KoM5iNQVqNomdhjto.jpg</thumbnail>
+<info>[COLOR black] [/COLOR]</info>
 ___________________________________________________________________Doutor Estranho (2016)____________________________________________________________________________________
 <channels></channels>
 <channel>
@@ -804,69 +809,5 @@ ____________________________________________________________________Dois Irmãos
 <title>[COLOR orange]Iniciar[/COLOR] 4k Blu-Ray 18,4 GB</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B61FB371565F6B8839070BA5A101F5F4A205AA7A&dn</link>
 <thumbnail>https://image.tmdb.org/t/p/original/jsi2UM64Mhr6NmY1LKeeCuZOaCo.jpg</thumbnail>
-<info>[COLOR black] [/COLOR]</info>
-<item>
-------------------------------------------------------------------------Êta Mundo Bom (2016)------------------------------------------------------
-<channels></channels>
-<channel>
-<name>Êta Mundo Bom (2016)</name> 
-<thumbnail>https://image.tmdb.org/t/p/original/1lXlsrSmXLZINsMHPleQWR293H0.jpg</thumbnail>    2019
-<fanart>https://image.tmdb.org/t/p/original/wlLvwnRKy0EMzKzbI2Foo9Koetn.jpg</fanart>
-<info>Candinho foi separado da mãe logo após seu nascimento e acolhido por um casal dono de uma fazenda. Mas quando cresce, Candinho é expulso por se apaixonar pela primogênita, Filomena. Candinho segue para a capital em busca da mãe biológica.</info>
-<item>
-
-<title>[COLOR orange]Capítulo:[/COLOR]  146</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1B7xAFUWQYiT2LZAJmKEjzKSUKDI52SSy/view</link>
-<thumbnail>https://image.tmdb.org/t/p/original/1lXlsrSmXLZINsMHPleQWR293H0.jpg</thumbnail>
-<info>[COLOR black] [/COLOR]</info>
-<item>
-<title>[COLOR orange]Capítulo:[/COLOR]  147</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1VX9Pk1u8RMOk5wwzErMsOFOKorgep3Y_/view</link>
-<thumbnail>https://image.tmdb.org/t/p/original/1lXlsrSmXLZINsMHPleQWR293H0.jpg</thumbnail>
-<info>[COLOR black] [/COLOR]</info>
-<item>
-<title>[COLOR orange]Capítulo:[/COLOR]  148</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1eHCwl3o57gkfSnavIWTAL_W9e6ikVKfQ/view</link>
-<thumbnail>https://image.tmdb.org/t/p/original/1lXlsrSmXLZINsMHPleQWR293H0.jpg</thumbnail>
-<info>[COLOR black] [/COLOR]</info>
-<item>
-<title>[COLOR orange]Capítulo:[/COLOR]  149</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ZtINsF3DgYObWvdNlpgtNfLh8uWpjvvu/view</link>
-<thumbnail>https://image.tmdb.org/t/p/original/1lXlsrSmXLZINsMHPleQWR293H0.jpg</thumbnail>
-<info>[COLOR black] [/COLOR]</info>
-<item>
-<title>[COLOR orange]Capítulo:[/COLOR]  150</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1UEIPmAwaG9QG4Lk9c1fV_Q411-BRpho9/view</link>
-<thumbnail>https://image.tmdb.org/t/p/original/1lXlsrSmXLZINsMHPleQWR293H0.jpg</thumbnail>
-<info>[COLOR black] [/COLOR]</info>
-<item>
-<title>[COLOR orange]Capítulo:[/COLOR]  151</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1UQ15f6ookx1INwn0k19qZ1w3YmyVpza8/view</link>
-<thumbnail>https://image.tmdb.org/t/p/original/1lXlsrSmXLZINsMHPleQWR293H0.jpg</thumbnail>
-<info>[COLOR black] [/COLOR]</info>
-<item>
-<title>[COLOR orange]Capítulo:[/COLOR]  152</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
-<thumbnail>https://image.tmdb.org/t/p/original/1lXlsrSmXLZINsMHPleQWR293H0.jpg</thumbnail>
-<info>[COLOR black] [/COLOR]</info>
-<item>
-<title>[COLOR orange]Capítulo:[/COLOR]  153</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
-<thumbnail>https://image.tmdb.org/t/p/original/1lXlsrSmXLZINsMHPleQWR293H0.jpg</thumbnail>
-<info>[COLOR black] [/COLOR]</info>
-<item>
-<title>[COLOR orange]Capítulo:[/COLOR]  154</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
-<thumbnail>https://image.tmdb.org/t/p/original/1lXlsrSmXLZINsMHPleQWR293H0.jpg</thumbnail>
-<info>[COLOR black] [/COLOR]</info>
-<item>
-<title>[COLOR orange]Capítulo:[/COLOR]  155</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
-<thumbnail>https://image.tmdb.org/t/p/original/1lXlsrSmXLZINsMHPleQWR293H0.jpg</thumbnail>
-<info>[COLOR black] [/COLOR]</info>
-<item>
-<title>[COLOR orange]Capítulo:[/COLOR]  156</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
-<thumbnail>https://image.tmdb.org/t/p/original/1lXlsrSmXLZINsMHPleQWR293H0.jpg</thumbnail>
 <info>[COLOR black] [/COLOR]</info>
 <item>
