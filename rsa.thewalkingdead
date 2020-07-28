@@ -1,6 +1,6 @@
 <channels></channels>
 <channel>
-<name>[COLOR orange][B]Temporada 1[/B][/COLOR] 2010 | 6 episódios</name>
+<name>[COLOR orange][B]Temporada 1[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/kTezyobPNbLYzltZ2x9e5Gowvt5.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/w75xv0Wm3FQkFiLFM7AHxobLEPw.jpg</fanart>
 <info>Um apocalipse provoca uma infestação de zumbis na cidade de Cynthiana, em Kentucky, nos Estados Unidos, e o oficial de polícia Rick Grimes (Andrew Lincoln) descobre que os mortos-vivos estão se propagando progressivamente. Ele decide unir-se aos homens e mulheres sobreviventes para que tenham mais força para combater o fenômeno que os atinge. O grupo percorre diferentes lugares em busca de soluções para o problema.</info>
@@ -114,11 +114,38 @@ ___________________________________________________________//___________________
 <thumbnail>https://image.tmdb.org/t/p/original/drhqpL945Yhip0TQA8PD6E6x7Qv.jpg</thumbnail>
 <info>[COLOR black] [/COLOR]</info>
 <item>
-<title>[COLOR orange][B]PLAY[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]</title> 52,1gb
+<title>[COLOR orange][B]PLAY[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR]  Legendado</title> 52,1gb
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7D80EC23ACE4A0BA9C0A6F14C86F4DBBAE349E76&dn</link>
 <thumbnail>https://image.tmdb.org/t/p/original/drhqpL945Yhip0TQA8PD6E6x7Qv.jpg</thumbnail>
 <info>[COLOR black] [/COLOR]</info>
-------------------------------------------------------------------------------------------------//-------------------------
+_____________________________________________________________//____________________________________________________________________________
+<item>
+<title>[COLOR orange][B]Temporada 5[/B] 2014 | 16 episódios[/COLOR]</title>
+<link>https://raw</link>
+<thumbnail>https://image.tmdb.org/t/p/original/mVL6TPRAzOn3UmraBCHa54gV6kC.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/w75xv0Wm3FQkFiLFM7AHxobLEPw.jpg</fanart>
+<info>Um apocalipse provoca uma infestação de zumbis na cidade de Cynthiana, em Kentucky, nos Estados Unidos, e o oficial de polícia Rick Grimes (Andrew Lincoln) descobre que os mortos-vivos estão se propagando progressivamente. Ele decide unir-se aos homens e mulheres sobreviventes para que tenham mais força para combater o fenômeno que os atinge. O grupo percorre diferentes lugares em busca de soluções para o problema.</info>
+<item>
+<title>[COLOR orange]PLAY[/COLOR] [COLOR aqua][B]720p[/B][/COLOR]</title> 6,17gb
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F73F31876B105FFA9572502145FF8052C4C08704&dn</link>
+<thumbnail>https://image.tmdb.org/t/p/original/mVL6TPRAzOn3UmraBCHa54gV6kC.jpg</thumbnail>
+<info>[COLOR black] [/COLOR]</info>
+<item>
+<title>[COLOR orange]PLAY[/COLOR] [COLOR aqua][B]720p[/B][/COLOR]</title> 6,73gb
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:431118E72BCDFF33B16FA3B78A3291F25F43C340&dn</link>
+<thumbnail>https://image.tmdb.org/t/p/original/mVL6TPRAzOn3UmraBCHa54gV6kC.jpg</thumbnail>
+<info>[COLOR black] [/COLOR]</info>
+<item>
+<title>[COLOR orange]PLAY[/COLOR] [COLOR aqua][B]720p[/B][/COLOR]</title> 7,05gb
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BB76F0B115B9494F743041D2B3A644D897BC0110&dn</link>
+<thumbnail>https://image.tmdb.org/t/p/original/mVL6TPRAzOn3UmraBCHa54gV6kC.jpg</thumbnail>
+<info>[COLOR black] [/COLOR]</info>
+<item>
+<title>[COLOR orange][B]PLAY[/B][/COLOR] [COLOR lime][B]1080p[/B][/COLOR] Legendado</title> 53,4gb
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A2432B9B79B9FA94863B7FD64A68AB5C15DCEBEC&dn</link>
+<thumbnail>https://image.tmdb.org/t/p/original/mVL6TPRAzOn3UmraBCHa54gV6kC.jpg</thumbnail>
+<info>[COLOR black] [/COLOR]</info>
+_______________________________________________________________//______________________________________________________________________________
 <channels></channels>
 <channel>
 <name>[COLOR orange][B]Temporada 9[/B][/COLOR]</name>
